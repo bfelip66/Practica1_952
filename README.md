@@ -23,7 +23,7 @@ associada a la contaminació de l'aire).
 <li> <b>Representació gràfica</b> amb un esquema o diagrama que identifiqui el dataset visualment i el projecte escollit. </li>
 <li> <b>Contingut:</b> explicació dels camps del dataset, el període de temps de les dades i com s'ha recollit. </li>
 <li> <b>Agraïments:</b> presentar el propietari del conjunt de dades (citar anàlisis anteriors i/o justificar la cerca amb anàlisis similars). </li>
-<li> <b>Inspiració:</b> perquè és interessant aquest conjunt de dades? Quines preguntes es volen respondre? Comparar amb les anàlisis del punt anterior. </li>
+<li> <b>Inspiració:</b> perquè és interessant el conjunt de dades seleccionat? Quines preguntes es volen respondre? Comparar amb les anàlisis del punt anterior. </li>
 <li> <b>Llicència:</b> seleccionar una llicències pel dataset resultant i explicar el motiu de la seva selecció. </li>
 
 <ol> Released Under CC0: Public Domain License. </ol>
