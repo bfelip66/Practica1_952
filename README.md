@@ -17,20 +17,20 @@ associada a la contaminació de l'aire).
 
 ## Punts de la Pràctica
 
-<li> Context de recol·lecció de la informació. Per què el lloc web triat proporciona aquesta informació. </li>
-<li> Definir un títol descriptiu pel dataset. </li>
-<li> Descripció breu del dataset que s'ha extret, lligada al títol. </li>
-<li> Representació gràfica amb un esquema o diagrama que identifiqui el dataset visualment i el projecte escollit. </li>
-<li> Contingut: explicació dels camps del dataset, el període de temps de les dades i com s'ha recollit. </li>
-<li> Agraïments: presentar el propietari del conjunt de dades (citar anàlisis anteriors i/o justificar la cerca amb anàlisis similars). </li>
-<li> Inspiració: perquè és interessant aquest conjunt de dades? Quines preguntes es volen respondre? Comparar amb les anàlisis del punt anterior. </li>
-<li> Llicència: seleccionar una llicències pel dataset resultant i explicar el motiu de la seva selecció. </li>
-    <ol> Released Under CC0: Public Domain License. </ol>
-    <ol> Released Under CC BY-NC-SA 4.0 License. </ol>
-    <ol> Released Under CC BY-SA 4.0 License. </ol>
-    <ol> Database released under Open Database License, individual contents under Database Contents License. </ol>
-<li> Codi amb el qual s'ha generat el dataset. </li>
-<li> Publicar el dataset en format CSV a Zenodo (obtenció del DOI) amb una breu descripció. </li>
+<li> <b>Context</b> de recol·lecció de la informació. Per què el lloc web triat proporciona aquesta informació. </li>
+<li> Definir un <b>títol descriptiu </b>pel dataset. </li>
+<li> <b>Descripció breu del dataset</b> que s'ha extret, lligada al títol. </li>
+<li> <b>Representació gràfica</b> amb un esquema o diagrama que identifiqui el dataset visualment i el projecte escollit. </li>
+<li> <b>Contingut:</b> explicació dels camps del dataset, el període de temps de les dades i com s'ha recollit. </li>
+<li> <b>Agraïments:</b> presentar el propietari del conjunt de dades (citar anàlisis anteriors i/o justificar la cerca amb anàlisis similars). </li>
+<li> <b>Inspiració:</b> perquè és interessant aquest conjunt de dades? Quines preguntes es volen respondre? Comparar amb les anàlisis del punt anterior. </li>
+<li> <b>Llicència:</b> seleccionar una llicències pel dataset resultant i explicar el motiu de la seva selecció. </li>
+<ol> Released Under CC0: Public Domain License. </ol>
+<ol> Released Under CC BY-NC-SA 4.0 License. </ol>
+<ol> Released Under CC BY-SA 4.0 License. </ol>
+<ol> Database released under Open Database License, individual contents under Database Contents License. </ol>
+<li> <b>Codi</b> amb el qual s'ha generat el dataset. </li>
+<li> <b>Publicar el dataset</b> en format CSV a Zenodo (obtenció del DOI) amb una breu descripció. </li>
 
 ## Membres del grup de treball
 
