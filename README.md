@@ -17,28 +17,30 @@ associada a la contaminació de l'aire).
 
 ## Punts de la Pràctica
 
-#a. Context de recol·lecció de la informació. Per què el lloc web triat proporciona aquesta informació.
-#b. Definir un títol descriptiu pel dataset.
-#c. Descripció breu del dataset que s'ha extret, lligada al títol.
-#d. Representació gràfica amb un esquema o diagrama que identifiqui el dataset visualment i el projecte escollit.
-#e. Contingut: explicació dels camps del dataset, el període de temps de les dades i com s'ha recollit.
-#f. Agraïments: presentar el propietari del conjunt de dades (citar anàlisis anteriors i/o justificar la cerca amb anàlisis similars).
-#g. Inspiració: perquè és interessant aquest conjunt de dades? Quines preguntes es volen respondre? Comparar amb les anàlisis del punt anterior.
-#h. Llicència: seleccionar una llicències pel dataset resultant i explicar el motiu de la seva selecció.
+a. Context de recol·lecció de la informació. Per què el lloc web triat proporciona aquesta informació.
+b. Definir un títol descriptiu pel dataset.
+c. Descripció breu del dataset que s'ha extret, lligada al títol.
+d. Representació gràfica amb un esquema o diagrama que identifiqui el dataset visualment i el projecte escollit.
+e. Contingut: explicació dels camps del dataset, el període de temps de les dades i com s'ha recollit.
+f. Agraïments: presentar el propietari del conjunt de dades (citar anàlisis anteriors i/o justificar la cerca amb anàlisis similars).
+g. Inspiració: perquè és interessant aquest conjunt de dades? Quines preguntes es volen respondre? Comparar amb les anàlisis del punt anterior.
+h. Llicència: seleccionar una llicències pel dataset resultant i explicar el motiu de la seva selecció.
     ○ Released Under CC0: Public Domain License
     ○ Released Under CC BY-NC-SA 4.0 License
     ○ Released Under CC BY-SA 4.0 License
     ○ Database released under Open Database License, individual contents under Database Contents License
-#i. Codi amb el qual s'ha generat el dataset.
-#j. Publicar el dataset en format CSV a Zenodo (obtenció del DOI) amb una breu descripció.
+i. Codi amb el qual s'ha generat el dataset.
+j. Publicar el dataset en format CSV a Zenodo (obtenció del DOI) amb una breu descripció.
 
 ## Membres del grup de treball
 
-# Maria Begoña Felip.
-# Vicenç Pio.
+<li> 
+<ol>Maria Begoña Felip. </ol>
+<ol>Vicenç Pio. </ol>
+</li>
 
 ## Bibliografia i referències digitals
 
-# Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
-# Masip, D. El lenguaje Python. Editorial UOC.
-# Tutorial de Github https://guides.github.com/activities/hello-world.
+<ol> Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC. </ol>
+<ol> Masip, D. El lenguaje Python. Editorial UOC. </ol>
+<ol> Tutorial de Github https://guides.github.com/activities/hello-world. </ol>
