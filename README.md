@@ -34,8 +34,8 @@ j. Publicar el dataset en format CSV a Zenodo (obtenció del DOI) amb una breu d
 
 ## Membres del grup de treball
 
-<ol>Maria Begoña Felip. </ol>
-<ol>Vicenç Pio. </ol>
+<li>Maria Begoña Felip. </li>
+<li>Vicenç Pio. </li>
 
 ## Bibliografia i referències digitals
 
