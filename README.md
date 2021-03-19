@@ -39,6 +39,6 @@ j. Publicar el dataset en format CSV a Zenodo (obtenció del DOI) amb una breu d
 
 ## Bibliografia i referències digitals
 
-<li> <ol> Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC. </ol>
-<ol> Masip, D. El lenguaje Python. Editorial UOC. </ol>
-<ol> Tutorial de Github https://guides.github.com/activities/hello-world. </ol> </li>
+<li> Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC. </li>
+<li> Masip, D. El lenguaje Python. Editorial UOC. </li>
+<li> Tutorial de Github https://guides.github.com/activities/hello-world. </li>
