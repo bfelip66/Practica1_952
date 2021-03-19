@@ -17,20 +17,20 @@ associada a la contaminació de l'aire).
 
 ## Punts de la Pràctica
 
-a. Context de recol·lecció de la informació. Per què el lloc web triat proporciona aquesta informació.
-b. Definir un títol descriptiu pel dataset.
-c. Descripció breu del dataset que s'ha extret, lligada al títol.
-d. Representació gràfica amb un esquema o diagrama que identifiqui el dataset visualment i el projecte escollit.
-e. Contingut: explicació dels camps del dataset, el període de temps de les dades i com s'ha recollit.
-f. Agraïments: presentar el propietari del conjunt de dades (citar anàlisis anteriors i/o justificar la cerca amb anàlisis similars).
-g. Inspiració: perquè és interessant aquest conjunt de dades? Quines preguntes es volen respondre? Comparar amb les anàlisis del punt anterior.
-h. Llicència: seleccionar una llicències pel dataset resultant i explicar el motiu de la seva selecció.
-    ○ Released Under CC0: Public Domain License
-    ○ Released Under CC BY-NC-SA 4.0 License
-    ○ Released Under CC BY-SA 4.0 License
-    ○ Database released under Open Database License, individual contents under Database Contents License
-i. Codi amb el qual s'ha generat el dataset.
-j. Publicar el dataset en format CSV a Zenodo (obtenció del DOI) amb una breu descripció.
+<li> Context de recol·lecció de la informació. Per què el lloc web triat proporciona aquesta informació. </li>
+<li> Definir un títol descriptiu pel dataset. </li>
+<li> Descripció breu del dataset que s'ha extret, lligada al títol. </li>
+<li> Representació gràfica amb un esquema o diagrama que identifiqui el dataset visualment i el projecte escollit. </li>
+<li> Contingut: explicació dels camps del dataset, el període de temps de les dades i com s'ha recollit. </li>
+<li> Agraïments: presentar el propietari del conjunt de dades (citar anàlisis anteriors i/o justificar la cerca amb anàlisis similars). </li>
+<li> Inspiració: perquè és interessant aquest conjunt de dades? Quines preguntes es volen respondre? Comparar amb les anàlisis del punt anterior. </li>
+<li> Llicència: seleccionar una llicències pel dataset resultant i explicar el motiu de la seva selecció. </li>
+    <ol> Released Under CC0: Public Domain License. </ol>
+    <ol> Released Under CC BY-NC-SA 4.0 License. </ol>
+    <ol> Released Under CC BY-SA 4.0 License. </ol>
+    <ol> Database released under Open Database License, individual contents under Database Contents License. </ol>
+<li> Codi amb el qual s'ha generat el dataset. </li>
+<li> Publicar el dataset en format CSV a Zenodo (obtenció del DOI) amb una breu descripció. </li>
 
 ## Membres del grup de treball
 
