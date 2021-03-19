@@ -24,13 +24,7 @@ associada a la contaminació de l'aire).
 <li> <b>Contingut:</b> explicació dels camps del dataset, el període de temps de les dades i com s'ha recollit. </li>
 <li> <b>Agraïments:</b> presentar el propietari del conjunt de dades (citar anàlisis anteriors i/o justificar la cerca amb anàlisis similars). </li>
 <li> <b>Inspiració:</b> perquè és interessant el conjunt de dades seleccionat? Quines preguntes es volen respondre? Comparar amb les anàlisis del punt anterior. </li>
-<li> <b>Llicència:</b> seleccionar una llicències pel dataset resultant i explicar el motiu de la seva selecció. </li>
-
-<ol> Released Under CC0: Public Domain License. </ol>
-<ol> Released Under CC BY-NC-SA 4.0 License. </ol>
-<ol> Released Under CC BY-SA 4.0 License. </ol>
-<ol> Database released under Open Database License, individual contents under Database Contents License. </ol>
-
+<li> <b>Llicència:</b> seleccionar una llicències pel dataset resultant i explicar el motiu de la seva selecció: Released Under CC0: Public Domain License, Released Under CC BY-NC-SA 4.0 License, Released Under CC BY-SA 4.0 License, Database released under Open Database License, individual contents under Database Contents License. </li>
 <li> <b>Codi</b> amb el qual s'ha generat el dataset. </li>
 <li> <b>Publicar el dataset</b> en format CSV a Zenodo (obtenció del DOI) amb una breu descripció. </li>
 
