@@ -5,9 +5,7 @@
 La Pràctica 1 es du a terme per a l'assignatura <b>Tipologia i cicle de vida de les dades</b>. 
 
 ## Punts de la Pràctica
-
 <li> <b>Context</b> de recol·lecció de la informació. </li>
-
 S'ha triat una web open source de la Generalitat de Catalunya (http://governobert.gencat.cat/ca/dades_obertes/) on es troba un registre de casos COVID a Catalunya. La Generalitat disposa d'un portal de dades obertes on es pot trobar informació molt diversa i de fàcil accés a l'hora d'analitzar-la. És, per tant, informació pública i aquest és el motiu pel qual l'hem seleccionada. 
 L'objectiu de la pràctica serà, doncs, la creació d'un dataset a partir de les dades obtingudes realitzant Web Scraping de la web: (https://analisi.transparenciacatalunya.cat/Salut/Registre-de-casos-de-COVID-19-realitzats-a-Catalun/jj6z-iyrp/data)
 
