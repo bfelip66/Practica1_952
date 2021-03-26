@@ -31,11 +31,13 @@ def download_web():
     """
     try:
         fixed_html = get_web_content(web)
-        write_to_file(fixed_html, 'web.html', 'w')
+        write_to_file(fixed_html, 'dades/web.html', 'w')
         print("Webpage downloaded to web.html")
 
     except:
         print("Ivalid url: {}".format(web))
+
+# download_web()
 
 
 # Dades paginació
@@ -50,7 +52,7 @@ def download_data():
         fixed_html = get_web_content(web_paginacio)
         print("Data downloaded to dades_paginacio.json, offset: {}".format(offset))
         fixed_html = fixed_html.replace(']', ',')
-        write_to_file(fixed_html, 'dades_paginacio.json', 'a')
+        write_to_file(fixed_html, 'dades/dades_paginacio.json', 'a')
 
         # while len(fixed_html2[:-3]) > 0:
         while next_page:
@@ -66,7 +68,7 @@ def download_data():
             else:
                 next_page = False
 
-            write_to_file(fixed_html, 'dades_paginacio.json', 'a')
+            write_to_file(fixed_html, 'dades/dades_paginacio.json', 'a')
 
     except:
         print("Ivalid url: {}".format(web_paginacio))
@@ -89,4 +91,4 @@ def navigate_tags():
     # No se que fer ni com navegar per a_tag
     print("a_tag: {}".format(a_tag))
 
-navigate_tags()
+# navigate_tags()
