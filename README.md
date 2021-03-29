@@ -4,11 +4,17 @@
 
 La Pràctica 1 es du a terme per a l'assignatura <b>Tipologia i cicle de vida de les dades</b>. 
 
-## Punts de la Pràctica
-<li> <b>Context</b> de recol·lecció de la informació. </li>
-S'ha triat una web open source de la Generalitat de Catalunya (http://governobert.gencat.cat/ca/dades_obertes/) on es troba un registre de casos COVID a Catalunya. La Generalitat disposa d'un portal de dades obertes on es pot trobar informació molt diversa i de fàcil accés a l'hora d'analitzar-la. És, per tant, informació pública i aquest és el motiu pel qual l'hem seleccionada. 
-L'objectiu de la pràctica serà, doncs, la creació d'un dataset a partir de les dades obtingudes realitzant Web Scraping de la web: (https://analisi.transparenciacatalunya.cat/Salut/Registre-de-casos-de-COVID-19-realitzats-a-Catalun/jj6z-iyrp/data)
+S'han d'analitzar, a través d'un cas pràctic, les dades rellevants per a aprendre a identificar-les i 
+utilitzar les eines d’extracció de dades.
 
+Hem triat una web open source (Dades Obertes) de la Generalitat de Catalunya (http://governobert.gencat.cat/ca/dades_obertes/). 
+L'objectiu d'aquesta activitat serà la creació d'un dataset a partir de les dades obtingudes mitjançant Web Scraping en la següent web: 
+(https://analisi.transparenciacatalunya.cat/Salut/Registre-de-casos-de-COVID-19-realitzats-a-Catalun/jj6z-iyrp/data), extreta de la web arrel Govern Obert de la Generalitat de Catalunya.
+Les dades de la pàgina web analitzada són el registre de casos de COVID-19 realitzats a Catalunya, per comarques.
+
+## Punts de la Pràctica
+
+<li> <b>Context</b> de recol·lecció de la informació. Per què el lloc web triat proporciona aquesta informació. </li>
 <li> Definir un <b>títol descriptiu </b>pel dataset. </li>
 <li> <b>Descripció breu del dataset</b> que s'ha extret, lligada al títol. </li>
 <li> <b>Representació gràfica</b> amb un esquema o diagrama que identifiqui el dataset visualment i el projecte escollit. </li>
