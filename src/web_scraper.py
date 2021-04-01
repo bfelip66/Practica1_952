@@ -14,8 +14,8 @@ driver_location = "C:/Users/vicen/Downloads/chromedriver.exe"
 """
 Starts webdriver
 """
-# driver = webdriver.Chrome(driver_location)
-# driver.get(web)
+driver = webdriver.Chrome(driver_location)
+driver.get(web)
 
 #region Private functions
 def get_web_content(url):
