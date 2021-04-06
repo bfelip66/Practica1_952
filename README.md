@@ -23,7 +23,7 @@ Les dades de la pàgina web analitzada són el registre de casos de COVID-19 rea
 <li> <b>Inspiració:</b> perquè és interessant el conjunt de dades seleccionat? Quines preguntes es volen respondre? </li>
 <li> <b>Llicència seleccionada pel dataset resultant i motivació</b>.</li>
 <li> <b>Codi</b> amb el qual s'ha generat el dataset. </li>
-<li> <b>Publicació del dataset</b> en format CSV a Zenodo (obtenció del DOI) amb una breu descripció. </li>
+<li> <b>Publicació del dataset</b> en format CSV a Zenodo (obtenció del DOI) amb una breu descripció. </li></br>
 
 Tots els punts anteriors, estan desenvolupats en el fitxer Práctica1.PDF
 
