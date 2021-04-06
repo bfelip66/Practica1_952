@@ -25,6 +25,11 @@ Les dades de la pàgina web analitzada són el registre de casos de COVID-19 rea
 <li> <b>Codi</b> amb el qual s'ha generat el dataset. </li>
 <li> <b>Publicar el dataset</b> en format CSV a Zenodo (obtenció del DOI) amb una breu descripció. </li>
 
+## Descripció dels fitxers
+
+<li> <b>web_scraper.py:</b> conté la implementació dels mètodes per obtenir un conjunt de dades de la web indicada anteriorment. Utilitza les llibreries BeautifulSoup i Selenium. </li>
+<li> <b>json_to_csv.py:</b> genera un fitxer en format CSV a partir del JSON obtingut del web scraping. Utilitza la llibreria Pandas. </li>
+
 ## Membres del grup de treball
 
 <li>Maria Begoña Felip. </li>
