@@ -14,16 +14,18 @@ Les dades de la pàgina web analitzada són el registre de casos de COVID-19 rea
 
 ## Punts de la Pràctica
 
-<li> <b>Context</b> de recol·lecció de la informació. Per què el lloc web triat proporciona aquesta informació. </li>
+<li> <b>Context del dataset.</b> 
 <li> Definir un <b>títol descriptiu </b>pel dataset. </li>
-<li> <b>Descripció breu del dataset</b> que s'ha extret, lligada al títol. </li>
-<li> <b>Representació gràfica</b> amb un esquema o diagrama que identifiqui el dataset visualment i el projecte escollit. </li>
+<li> <b>Descripció breu del dataset</b></li>
+<li> <b>Representació gràfica</b> del dataset</li>
 <li> <b>Contingut:</b> explicació dels camps del dataset, el període de temps de les dades i com s'ha recollit. </li>
 <li> <b>Agraïments:</b> presentar el propietari del conjunt de dades (citar anàlisis anteriors i/o justificar la cerca amb anàlisis similars). </li>
-<li> <b>Inspiració:</b> perquè és interessant el conjunt de dades seleccionat? Quines preguntes es volen respondre? Comparar amb les anàlisis del punt anterior. </li>
-<li> <b>Llicència:</b> seleccionar una llicències pel dataset resultant i explicar el motiu de la seva selecció: Released Under CC0: Public Domain License, Released Under CC BY-NC-SA 4.0 License, Released Under CC BY-SA 4.0 License, Database released under Open Database License, individual contents under Database Contents License. </li>
+<li> <b>Inspiració:</b> perquè és interessant el conjunt de dades seleccionat? Quines preguntes es volen respondre? </li>
+<li> <b>Llicència seleccionada pel dataset resultant i motivació</b>.</li>
 <li> <b>Codi</b> amb el qual s'ha generat el dataset. </li>
-<li> <b>Publicar el dataset</b> en format CSV a Zenodo (obtenció del DOI) amb una breu descripció. </li>
+<li> <b>Publicació del dataset</b> en format CSV a Zenodo (obtenció del DOI) amb una breu descripció. </li>
+
+Tots els punts anteriors, estan desenvolupats en el fitxer Práctica1.PDF
 
 ## Descripció dels fitxers
 
