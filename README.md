@@ -19,7 +19,7 @@ Les dades de la pàgina web analitzada són el registre de casos de COVID-19 rea
 <li> <b>Descripció breu del dataset</b></li>
 <li> <b>Representació gràfica</b> del dataset</li>
 <li> <b>Contingut:</b> explicació dels camps del dataset, el període de temps de les dades i com s'ha recollit. </li>
-<li> <b>Agraïments:</b> presentar el propietari del conjunt de dades (citar anàlisis anteriors i/o justificar la cerca amb anàlisis similars). </li>
+<li> <b>Agraïments:</b> presentar el propietari del conjunt de dades (justificar la cerca amb anàlisis similars). </li>
 <li> <b>Inspiració:</b> perquè és interessant el conjunt de dades seleccionat? Quines preguntes es volen respondre? </li>
 <li> <b>Llicència seleccionada pel dataset resultant i motivació</b>.</li>
 <li> <b>Codi</b> amb el qual s'ha generat el dataset. </li>
