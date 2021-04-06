@@ -1,0 +1,1001 @@
+data,comarcacodi,comarcadescripcio,municipicodi,municipidescripcio,districtecodi,districtedescripcio,sexecodi,sexedescripcio,resultatcoviddescripcio,numcasos,:id
+2020-07-23T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,0.0,Home,Positiu per Test Ràpid,5,row-ijd9_utji_amzn
+2020-07-23T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-rm4s_pn9z-bzps
+2020-11-12T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,Positiu per ELISA,1,row-dbvc.7vwb.5z2j
+2020-07-23T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-ijie.agx5-8unv
+2020-07-29T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-n24v~tvxb.7p3k
+2020-05-04T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,0.0,Home,Positiu per ELISA,1,row-33vy_mc32_4b6p
+2020-11-20T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per Test Ràpid,1,row-fmcw-n4hp-392f
+2020-05-06T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Positiu per ELISA,6,row-hd39~77mk_nmm3
+2020-05-27T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,3,row-wzvf_jz9a~qpid
+2020-03-26T00:00:00.000,15.0,CERDANYA,17141.0,PUIGCERDÀ,,No classificat,1.0,Dona,PCR probable,2,row-72be_eg8e~tynn
+2020-05-06T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-riqh.jjnz.qqs7
+2020-06-05T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,3,row-7xge~4d73~6ebu
+2020-11-16T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,0.0,Home,PCR probable,1,row-gpa2_qyv4.9vz8
+2020-07-28T00:00:00.000,7.0,BAGES,8218.0,SANT JOAN DE VILATORRADA,,No classificat,1.0,Dona,Positiu per Test Ràpid,11,row-dxyr~jnm9.2rci
+2020-11-05T00:00:00.000,11.0,BAIX LLOBREGAT,8208.0,SANT ESTEVE SESROVIRES,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-8ywq.x7qc.mci8
+2020-11-04T00:00:00.000,13.0,BARCELONES,8194.0,SANT ADRIÀ DE BESÒS,,No classificat,0.0,Home,PCR probable,1,row-xsi2-pvu2-5cet
+2020-07-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,Positiu per ELISA,2,row-erku_hyj3~gh54
+2020-04-01T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,0.0,Home,Epidemiològic,14,row-ct55~d86g-yy4j
+2020-04-17T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,Positiu per Test Ràpid,6,row-vm2g_8tcx-nmtq
+2020-05-14T00:00:00.000,21.0,MARESME,8155.0,PALAFOLLS,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-cbvf_tq2i~st3y
+2021-01-24T00:00:00.000,21.0,MARESME,8006.0,ARENYS DE MAR,,No classificat,0.0,Home,PCR probable,1,row-3nhj~wxhb~2bhr
+2020-11-02T00:00:00.000,10.0,BAIX EMPORDA,17117.0,PALAFRUGELL,,No classificat,1.0,Dona,PCR probable,1,row-jc2v~g3i2-5f5m
+2020-07-10T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per Test Ràpid,38,row-drfj_zb53~8g47
+2020-07-10T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,6,row-ysts_48zi-bdgu
+2020-07-10T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,0.0,Home,Positiu per Test Ràpid,3,row-pdnn.thpp~vqie
+2020-07-10T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-ttgz-tpu4.nycc
+2020-07-09T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,1.0,Dona,Positiu per Test Ràpid,2,row-73hf_qkv5.knf6
+2020-08-12T00:00:00.000,11.0,BAIX LLOBREGAT,8056.0,CASTELLDEFELS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-hmyu.thaw-vsfc
+2020-04-27T00:00:00.000,2.0,ALT EMPORDA,17066.0,FIGUERES,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-is8k.eypt_ntwv
+2020-11-05T00:00:00.000,41.0,VALLES ORIENTAL,8202.0,SANT CELONI,,No classificat,1.0,Dona,PCR probable,1,row-w9ab~yguv.mkyr
+2020-12-17T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,PCR probable,3,row-dkk7_kvak.agcn
+2020-09-03T00:00:00.000,40.0,VALLES OCCIDENTAL,8156.0,PALAU-SOLITÀ I PLEGAMANS,,No classificat,0.0,Home,Epidemiològic,1,row-b4ie~wify~4q8t
+2020-09-04T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,0.0,Home,Positiu per ELISA,1,row-crf9~26hu-wv96
+2020-05-01T00:00:00.000,36.0,TARRAGONES,43905.0,SALOU,,No classificat,1.0,Dona,Positiu per ELISA,1,row-gk95_sth4.exy3
+2020-10-29T00:00:00.000,12.0,BAIX PENEDES,43037.0,CALAFELL,,No classificat,0.0,Home,Epidemiològic,1,row-a449.aqqk~78yj
+2020-04-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,Positiu per ELISA,8,row-d5jc~uu6r_dwnr
+2020-07-15T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,0.0,Home,PCR probable,1,row-hx8x.m6yk_nwm5
+2020-10-28T00:00:00.000,16.0,CONCA DE BARBERA,43139.0,SANTA COLOMA DE QUERALT,,No classificat,1.0,Dona,PCR probable,1,row-qiwv_ehmd.ha4k
+2020-09-08T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,Positiu per Test Ràpid,1,row-k2pz_e2ea~8nvs
+2020-05-06T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,0.0,Home,Epidemiològic,3,row-hy2q_3ase.brw8
+2021-03-09T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,1.0,Dona,Positiu TAR,8,row-h77i~u44b~7gay
+2021-01-29T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,2,row-skrr~b2bi.h69t
+2020-05-08T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,Positiu per ELISA,3,row-zhrc~7hdw-vbcz
+2020-05-23T00:00:00.000,34.0,SELVA,17202.0,TOSSA DE MAR,,No classificat,1.0,Dona,Positiu per ELISA,1,row-nqb8~4x5i-pawu
+2020-03-20T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,0.0,Home,Positiu per ELISA,1,row-5khg_gzti~bqti
+2021-03-26T00:00:00.000,27.0,PLA D'URGELL,25048.0,BELL-LLOC D'URGELL,,No classificat,1.0,Dona,Positiu TAR,1,row-pzrq_73ce.xjai
+2020-07-21T00:00:00.000,40.0,VALLES OCCIDENTAL,8266.0,CERDANYOLA DEL VALLÈS,,No classificat,0.0,Home,PCR probable,1,row-3zew.s6b7~kwa2
+2020-07-29T00:00:00.000,41.0,VALLES ORIENTAL,8136.0,MONTORNÈS DEL VALLÈS,,No classificat,0.0,Home,Positiu per Test Ràpid,6,row-qfui_ta57.5jb3
+2020-07-29T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,1.0,Dona,PCR probable,4,row-cia5-5jfd~bw4u
+2020-07-29T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,0.0,Home,Positiu per ELISA,1,row-syh2-6p7q.h4wa
+2020-07-30T00:00:00.000,24.0,OSONA,8298.0,VIC,,No classificat,1.0,Dona,Positiu per Test Ràpid,4,row-azzu.bdd7~arcv
+2021-03-25T00:00:00.000,40.0,VALLES OCCIDENTAL,8051.0,CASTELLAR DEL VALLÈS,,No classificat,0.0,Home,Positiu PCR,1,row-a9dy.6dwd.qdid
+2021-03-26T00:00:00.000,6.0,ANOIA,8102.0,IGUALADA,,No classificat,1.0,Dona,Positiu TAR,4,row-6nwc.vwen_nhva
+2020-07-23T00:00:00.000,11.0,BAIX LLOBREGAT,8114.0,MARTORELL,,No classificat,1.0,Dona,PCR probable,1,row-88zi.4xiq-s8cs
+2020-07-23T00:00:00.000,6.0,ANOIA,8302.0,VILANOVA DEL CAMÍ,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-7sy2~mia7_8399
+2020-07-15T00:00:00.000,28.0,PLA DE L'ESTANY,17137.0,PORQUERES,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-mvnp_x82j.8bjw
+2020-07-15T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,0.0,Home,Positiu per Test Ràpid,5,row-mfvn.cu7d~yjas
+2020-07-15T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,1.0,Dona,Positiu per Test Ràpid,6,row-zwen.9muh.mcb2
+2020-07-15T00:00:00.000,40.0,VALLES OCCIDENTAL,8180.0,RIPOLLET,,No classificat,1.0,Dona,Positiu per Test Ràpid,7,row-rpys~pb9e~vpk8
+2020-08-18T00:00:00.000,32.0,SEGARRA,25110.0,GUISSONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,5,row-ye5e.5apd_skam
+2020-08-24T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-gg9q_ncir~s4pt
+2020-10-06T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-axj3.2i4a~n7pk
+2020-07-06T00:00:00.000,,,,No classificat,,No classificat,,No classificat,Epidemiològic,2,row-8ffx_74aw-xjxi
+2020-08-21T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,Positiu per ELISA,1,row-yiyv.xmu8.zefx
+2020-04-09T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,0.0,Home,Epidemiològic,1,row-q8q4-hgui-469f
+2020-03-31T00:00:00.000,7.0,BAGES,8140.0,NAVARCLES,,No classificat,0.0,Home,Epidemiològic,1,row-vzk6.pbjb_ezvr
+2020-04-08T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,0.0,Home,Positiu per ELISA,1,row-f4py_arpp-8zix
+2020-04-07T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,1.0,Dona,Epidemiològic,1,row-d8ar.9y8k~xg26
+2020-12-24T00:00:00.000,24.0,OSONA,8298.0,VIC,,No classificat,1.0,Dona,Positiu per Test Ràpid,10,row-bgwt.fzik-7y5f
+2020-07-27T00:00:00.000,41.0,VALLES ORIENTAL,8108.0,LLIÇÀ DE VALL,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-4utz-xqpm_5qrr
+2020-07-25T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,0.0,Home,Positiu per ELISA,1,row-h9t8~bats_zce3
+2020-11-19T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,PCR probable,1,row-g58g-6jvq_tgwz
+2020-08-19T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,0.0,Home,Positiu per ELISA,1,row-6rrs-ssrf_mckg
+2020-06-12T00:00:00.000,10.0,BAIX EMPORDA,17117.0,PALAFRUGELL,,No classificat,0.0,Home,PCR probable,1,row-4w3h-t4cz-r4rv
+2020-06-11T00:00:00.000,23.0,NOGUERA,25156.0,OS DE BALAGUER,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-wyzu~2taj.uhib
+2020-10-30T00:00:00.000,14.0,BERGUEDA,8022.0,BERGA,,No classificat,1.0,Dona,PCR probable,1,row-sptp.hcsi_s5yf
+2021-02-11T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,Positiu per ELISA,3,row-zjpw_erdn_rnyi
+2020-07-17T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,0.0,Home,Positiu per Test Ràpid,4,row-mejs.v9ai-mvbq
+2020-04-30T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,Positiu per ELISA,2,row-t483.3rbi-cvtp
+2020-07-17T00:00:00.000,3.0,ALT PENEDES,8240.0,SANT SADURNÍ D'ANOIA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-mcz2~ddda~28ir
+2020-07-01T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,6,row-hi4z-hdu9.ibuh
+2020-10-24T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,PCR probable,1,row-xfst-pm2y~ezex
+2020-05-29T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-8fx3.wdvm.qzwc
+2020-04-22T00:00:00.000,17.0,GARRAF,8148.0,OLIVELLA,,No classificat,1.0,Dona,Epidemiològic,1,row-4ra3-uxc6_myp9
+2020-10-29T00:00:00.000,16.0,CONCA DE BARBERA,43139.0,SANTA COLOMA DE QUERALT,,No classificat,1.0,Dona,Positiu per Test Ràpid,7,row-uyyd~w2ut.c86s
+2020-03-15T00:00:00.000,41.0,VALLES ORIENTAL,8209.0,SANT FOST DE CAMPSENTELLES,,No classificat,0.0,Home,Positiu per ELISA,1,row-f6jd_hmc3~c648
+2021-01-29T00:00:00.000,2.0,ALT EMPORDA,17152.0,ROSES,,No classificat,0.0,Home,PCR probable,1,row-223s.89zy-fbwt
+2020-09-19T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,PCR probable,3,row-sphu-vfa3~5zms
+2020-07-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per Test Ràpid,15,row-fyfh~gr6r~eb3w
+2020-12-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,0.0,Home,PCR probable,1,row-exu6-a9yw-ni9u
+2020-07-17T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,0.0,Home,Positiu per Test Ràpid,5,row-3wdc~vvsh.umyx
+2020-07-15T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,0.0,Home,Positiu per Test Ràpid,4,row-y6a8~5ack-59xv
+2020-06-06T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,0.0,Home,Positiu per ELISA,3,row-938r-265t-72he
+2020-10-27T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,Positiu per ELISA,1,row-bb36~w26i-zkze
+2020-12-15T00:00:00.000,6.0,ANOIA,8302.0,VILANOVA DEL CAMÍ,,No classificat,1.0,Dona,Positiu per Test Ràpid,8,row-z7ub.ehh3-2hs9
+2020-12-12T00:00:00.000,24.0,OSONA,8298.0,VIC,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-ncu8~ixe3_yxgn
+2020-04-15T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,Positiu per Test Ràpid,3,row-wpaf-kr9v~i7mi
+2020-07-30T00:00:00.000,40.0,VALLES OCCIDENTAL,8238.0,SANT QUIRZE DEL VALLÈS,,No classificat,1.0,Dona,Epidemiològic,1,row-iwwj-arp6.f4ev
+2020-12-18T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,1.0,Dona,Positiu per ELISA,1,row-c37t~cha9~5dqr
+2021-01-23T00:00:00.000,6.0,ANOIA,8250.0,SANTA MARGARIDA DE MONTBUI,,No classificat,0.0,Home,Positiu per ELISA,1,row-jazz.39tq~2g7p
+2020-09-06T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,0.0,Home,Positiu per ELISA,1,row-vysx~pgzb_swfw
+2020-04-23T00:00:00.000,10.0,BAIX EMPORDA,17199.0,TORROELLA DE MONTGRÍ,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-r2c6-ifm5-pukz
+2020-03-17T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-8s7d~rx2z~bida
+2020-11-23T00:00:00.000,21.0,MARESME,8197.0,SANT ANDREU DE LLAVANERES,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-szri_qfvi.ntx8
+2020-08-26T00:00:00.000,40.0,VALLES OCCIDENTAL,8051.0,CASTELLAR DEL VALLÈS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-93ym~bdvt-g9jd
+2020-06-02T00:00:00.000,33.0,SEGRIA,25033.0,ARTESA DE LLEIDA,,No classificat,0.0,Home,PCR probable,1,row-kjnp_hdbb~4p3r
+2020-06-02T00:00:00.000,11.0,BAIX LLOBREGAT,8077.0,ESPLUGUES DE LLOBREGAT,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-mzmr~3w72-ekxw
+2020-04-09T00:00:00.000,40.0,VALLES OCCIDENTAL,8238.0,SANT QUIRZE DEL VALLÈS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-gqzn-ank4-4ih7
+2020-07-06T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,Positiu per Test Ràpid,15,row-g86n_2imk~e5f7
+2021-01-22T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-pp32~wzxg-maay
+2021-02-06T00:00:00.000,11.0,BAIX LLOBREGAT,8056.0,CASTELLDEFELS,,No classificat,1.0,Dona,PCR probable,1,row-cxyx_4u9c.k63y
+2021-02-05T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,2,row-aiti_fk4f~sssd
+2020-12-25T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-kha4~ccbq-p2g4
+2020-09-29T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-aqnu.8z3u_qr6i
+2020-07-02T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,0.0,Home,Positiu per Test Ràpid,6,row-b2cf~pq8h_6c7m
+2020-11-23T00:00:00.000,11.0,BAIX LLOBREGAT,8077.0,ESPLUGUES DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,1,row-rjz6_sevg~9wcv
+2020-12-17T00:00:00.000,17.0,GARRAF,8270.0,SITGES,,No classificat,0.0,Home,Positiu per ELISA,2,row-b8nx-n7k4-5639
+2021-02-15T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,Positiu per Test Ràpid,3,row-bp4t~gvgn_uzsp
+2020-05-15T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-knkn.ih6q~h649
+2020-06-13T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,0.0,Home,Positiu per ELISA,2,row-kxex-q97f~3sbp
+2020-04-21T00:00:00.000,14.0,BERGUEDA,8022.0,BERGA,,No classificat,0.0,Home,Positiu per ELISA,1,row-33t5-c8af~ynit
+2021-02-02T00:00:00.000,6.0,ANOIA,8102.0,IGUALADA,,No classificat,0.0,Home,Positiu per ELISA,1,row-k7i6_k78r_56hg
+2021-02-24T00:00:00.000,11.0,BAIX LLOBREGAT,8196.0,SANT ANDREU DE LA BARCA,,No classificat,1.0,Dona,PCR probable,2,row-68ki~veij-wykc
+2021-02-23T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-twyz~mpnh.wygf
+2021-01-12T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,0.0,Home,PCR probable,1,row-iy4h_5xh8-cpd3
+2020-10-28T00:00:00.000,11.0,BAIX LLOBREGAT,8020.0,BEGUES,,No classificat,0.0,Home,Positiu per ELISA,1,row-ush4.i5m5~mt45
+2020-08-21T00:00:00.000,40.0,VALLES OCCIDENTAL,8266.0,CERDANYOLA DEL VALLÈS,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-95gh~xssx-2yyg
+2020-12-19T00:00:00.000,27.0,PLA D'URGELL,25137.0,MOLLERUSSA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-nn6r_zyky-jbm4
+2020-05-07T00:00:00.000,11.0,BAIX LLOBREGAT,8123.0,MOLINS DE REI,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-mgks~pv69~q8si
+2020-10-04T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Positiu per Test Ràpid,12,row-n2nf_jnhv_7cgy
+2020-05-26T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,0.0,Home,Positiu per ELISA,5,row-pkmx_ga6i.ab78
+2020-04-25T00:00:00.000,41.0,VALLES ORIENTAL,8159.0,PARETS DEL VALLÈS,,No classificat,0.0,Home,Positiu per ELISA,2,row-h84a.kffv.ubcf
+2020-06-25T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-an8w~a69s.vges
+2020-06-05T00:00:00.000,34.0,SELVA,17180.0,SANTA COLOMA DE FARNERS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-fqdk_xe9i~y3cn
+2020-04-24T00:00:00.000,8.0,BAIX CAMP,43038.0,CAMBRILS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-apt6~8sz7-wi7k
+2020-07-31T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,1.0,Dona,Positiu per ELISA,2,row-gytj~wzjh~aexz
+2021-01-19T00:00:00.000,11.0,BAIX LLOBREGAT,8020.0,BEGUES,,No classificat,1.0,Dona,PCR probable,1,row-sp45-z9ny.8hr6
+2020-12-10T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,0.0,Home,Epidemiològic,2,row-jnx8_b3dc-jamg
+2020-10-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,PCR probable,1,row-9nwp_ddq6~4ax8
+2020-05-12T00:00:00.000,41.0,VALLES ORIENTAL,8046.0,CARDEDEU,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-szju-a6vc_m5ih
+2020-04-23T00:00:00.000,11.0,BAIX LLOBREGAT,8114.0,MARTORELL,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-7pxq_feap_gpm7
+2020-08-14T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,2,row-qyex.f98t~jeia
+2020-08-13T00:00:00.000,11.0,BAIX LLOBREGAT,8123.0,MOLINS DE REI,,No classificat,0.0,Home,Epidemiològic,1,row-geis~neab_pivz
+2020-07-24T00:00:00.000,41.0,VALLES ORIENTAL,8096.0,GRANOLLERS,,No classificat,1.0,Dona,Positiu per Test Ràpid,3,row-ituv-v74i_g5wj
+2020-07-24T00:00:00.000,6.0,ANOIA,8302.0,VILANOVA DEL CAMÍ,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-6swe.f2vn_gb3f
+2020-04-16T00:00:00.000,11.0,BAIX LLOBREGAT,8077.0,ESPLUGUES DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,1,row-iepq_k2bz_unqg
+2021-01-16T00:00:00.000,11.0,BAIX LLOBREGAT,8056.0,CASTELLDEFELS,,No classificat,1.0,Dona,PCR probable,1,row-kr4r~5fxb_ebq5
+2021-01-28T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,PCR probable,1,row-gapw~z47n_637c
+2020-08-25T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,Positiu per Test Ràpid,5,row-7vm3.55z2-ybbd
+2020-05-05T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-s765-aczi_4epj
+2020-09-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,1.0,Dona,Positiu per ELISA,9,row-ewgg~fbwj~ctig
+2020-04-27T00:00:00.000,39.0,VALL D'ARAN,25243.0,VIELHA E MIJARAN,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-jgja.mbas_r7a4
+2020-04-25T00:00:00.000,7.0,BAGES,8274.0,SÚRIA,,No classificat,1.0,Dona,Positiu per ELISA,2,row-krup-qw37~k8h9
+2020-10-26T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,0.0,Home,PCR probable,1,row-qcrz-ubkf.k3k9
+2021-01-13T00:00:00.000,31.0,RIPOLLES,17167.0,SANT JOAN DE LES ABADESSES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-ixnv_j2e5_urik
+2021-01-29T00:00:00.000,11.0,BAIX LLOBREGAT,8056.0,CASTELLDEFELS,,No classificat,0.0,Home,PCR probable,4,row-t7qa_j47b.mka6
+2020-08-17T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-5xw3_tnpn-2m7j
+2021-01-12T00:00:00.000,34.0,SELVA,17023.0,BLANES,,No classificat,1.0,Dona,PCR probable,1,row-umce.me4y-d8hx
+2021-01-09T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-nkee_qana_nzhm
+2020-12-18T00:00:00.000,6.0,ANOIA,8143.0,ÒDENA,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-dg56~3r3q~tt6a
+2020-12-17T00:00:00.000,34.0,SELVA,17213.0,VIDRERES,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-k3jp.grm8_tqr5
+2020-12-17T00:00:00.000,11.0,BAIX LLOBREGAT,8211.0,SANT FELIU DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,2,row-vy7e.4gyq_rxzm
+2020-05-13T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-i3dq-ruim-tq3y
+2020-09-30T00:00:00.000,36.0,TARRAGONES,43905.0,SALOU,,No classificat,1.0,Dona,PCR probable,1,row-mq73_yrim-jj4u
+2020-05-27T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,1.0,Dona,Positiu per ELISA,5,row-aghr-annc.v5tb
+2021-02-11T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,1.0,Dona,PCR probable,1,row-j8hz_ub6r~ehqf
+2020-04-28T00:00:00.000,21.0,MARESME,8110.0,MALGRAT DE MAR,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-v2v6.b52j~6p4g
+2021-02-19T00:00:00.000,15.0,CERDANYA,17069.0,FONTANALS DE CERDANYA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-nhsv.66iv~cxp6
+2020-12-18T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,1.0,Dona,PCR probable,1,row-ejwp-8g4j~7x6z
+2020-12-09T00:00:00.000,40.0,VALLES OCCIDENTAL,8184.0,RUBÍ,,No classificat,1.0,Dona,Epidemiològic,1,row-wr7e_gpnr~v9n8
+2020-07-13T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,11,row-m9pm.5yet-652r
+2020-04-27T00:00:00.000,21.0,MARESME,8155.0,PALAFOLLS,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-8vmm~2a5w-jket
+2020-04-17T00:00:00.000,34.0,SELVA,17193.0,SILS,,No classificat,1.0,Dona,Positiu per Test Ràpid,5,row-bc5e~pk9r_wwgp
+2020-10-23T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,PCR probable,6,row-km2q-aepw-7yut
+2020-10-23T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Positiu per ELISA,1,row-r9pu-ecm6.9tce
+2020-05-27T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per ELISA,11,row-tyjq_9da3_jjqd
+2020-05-27T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,10,row-c5n6~hm77_hfnc
+2020-05-29T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,1,row-awnp-424e~3wyi
+2020-07-21T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,0.0,Home,Positiu per Test Ràpid,4,row-86ri_22zi~a2dh
+2020-04-28T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,Epidemiològic,6,row-62q7_9nq6_qyu2
+2020-08-17T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,Positiu per Test Ràpid,1,row-avpc.65mp.xjy7
+2020-09-25T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,1.0,Dona,PCR probable,3,row-vzdt-42n9_s2ge
+2020-08-13T00:00:00.000,8.0,BAIX CAMP,43092.0,MONT-ROIG DEL CAMP,,No classificat,0.0,Home,Positiu per ELISA,1,row-4x5n.p3ip-bhb4
+2020-10-23T00:00:00.000,8.0,BAIX CAMP,43123.0,REUS,,No classificat,0.0,Home,PCR probable,1,row-56wb~druz.rzv8
+2020-07-30T00:00:00.000,41.0,VALLES ORIENTAL,8259.0,SANTA MARIA DE PALAUTORDERA,,No classificat,0.0,Home,Epidemiològic,1,row-bkqb.b335.mj6v
+2020-07-20T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,0.0,Home,Positiu per Test Ràpid,1,row-gmgx~mbqf.xnkh
+2020-07-20T00:00:00.000,40.0,VALLES OCCIDENTAL,8180.0,RIPOLLET,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-yzvh-9e5z.c96a
+2020-07-20T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per Test Ràpid,4,row-cnhu~3yas.gxme
+2020-07-20T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,Positiu per Test Ràpid,5,row-6tv5~6va3_g9sn
+2020-05-06T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-kzu6-6dar-rceb
+2020-04-27T00:00:00.000,28.0,PLA DE L'ESTANY,17015.0,BANYOLES,,No classificat,1.0,Dona,Positiu per Test Ràpid,9,row-akgi-ejst-sjt8
+2020-04-23T00:00:00.000,39.0,VALL D'ARAN,25243.0,VIELHA E MIJARAN,,No classificat,0.0,Home,Positiu per ELISA,2,row-7b6p.wi47~38r9
+2020-04-23T00:00:00.000,11.0,BAIX LLOBREGAT,8211.0,SANT FELIU DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,2,row-cc5c~e438-zfpu
+2020-05-03T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,0.0,Home,Epidemiològic,1,row-6ki9.mrzg.zspj
+2021-01-05T00:00:00.000,24.0,OSONA,8278.0,TARADELL,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-hwpy-ejxq-kvce
+2020-07-15T00:00:00.000,6.0,ANOIA,8250.0,SANTA MARGARIDA DE MONTBUI,,No classificat,0.0,Home,Positiu per Test Ràpid,3,row-agma~xy6w~5fr4
+2020-05-13T00:00:00.000,11.0,BAIX LLOBREGAT,8263.0,SANT VICENÇ DELS HORTS,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-dp4x-bdsf~x6sc
+2020-10-28T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,0.0,Home,PCR probable,1,row-m99k_uxgc.u3ja
+2020-09-20T00:00:00.000,11.0,BAIX LLOBREGAT,8157.0,PALLEJÀ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-fwcf-xm3w~nc4w
+2020-07-16T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,0.0,Home,Positiu per Test Ràpid,10,row-au5m-egyf.qpud
+2020-09-16T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,1,row-uz6a.rgik.qska
+2020-07-16T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-t5cc_izry~25z5
+2020-07-16T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,1.0,Dona,Positiu per ELISA,1,row-mmms~iwi5_cx6q
+2020-09-07T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-4pak-eyfg~b55v
+2020-10-09T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Positiu per ELISA,1,row-yi6i~bgc3~g8sa
+2020-12-18T00:00:00.000,6.0,ANOIA,8143.0,ÒDENA,,No classificat,0.0,Home,Positiu per Test Ràpid,8,row-vcrq-xc8e~jm2z
+2020-04-30T00:00:00.000,41.0,VALLES ORIENTAL,8209.0,SANT FOST DE CAMPSENTELLES,,No classificat,1.0,Dona,Epidemiològic,2,row-nkcr.w3fk.imdr
+2020-04-30T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,Epidemiològic,9,row-xi7v_adyj_r5gz
+2020-11-19T00:00:00.000,40.0,VALLES OCCIDENTAL,8260.0,SANTA PERPÈTUA DE MOGODA,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-n4i2-7g76-8npu
+2020-07-20T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,Positiu per Test Ràpid,6,row-jh67_qg36-cr5q
+2020-04-08T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,1.0,Dona,Epidemiològic,2,row-kpmp.3e6h.4npy
+2020-04-03T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Epidemiològic,2,row-5cgv_njjh_5ejh
+2020-06-29T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per Test Ràpid,5,row-mpg8~tgmw-2k9d
+2020-06-30T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Positiu per ELISA,1,row-txi8-dm9b.9u4v
+2020-07-29T00:00:00.000,41.0,VALLES ORIENTAL,8159.0,PARETS DEL VALLÈS,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-2vut-jsxv_ztnf
+2020-08-06T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,Positiu per ELISA,1,row-vuct-byqk-fqcm
+2020-07-31T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Positiu per ELISA,1,row-kb5g~tuw3~n9ey
+2020-07-08T00:00:00.000,38.0,URGELL,25217.0,TÀRREGA,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-ja2t_wsfp_stpq
+2020-07-02T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-jtix.edhi.7aq7
+2020-07-02T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,0.0,Home,Positiu per Test Ràpid,5,row-hdyj~cnfq.shjf
+2020-07-27T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,0.0,Home,PCR probable,1,row-776z_y2kr_5rye
+2020-07-03T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,0.0,Home,PCR probable,1,row-nyrm_qe6a~9b3p
+2020-09-15T00:00:00.000,36.0,TARRAGONES,43148.0,TARRAGONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-2vwy-q4we.qtub
+2020-08-06T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-4u9a.q982~svhy
+2020-08-07T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-p7m8.jvqd_dfku
+2020-08-06T00:00:00.000,17.0,GARRAF,8307.0,VILANOVA I LA GELTRÚ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-xa52~ywae.hnzf
+2020-08-09T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,Positiu per ELISA,1,row-drem_x58n.hp84
+2020-08-07T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,0.0,Home,PCR probable,5,row-2sw6-8v8e_tut2
+2020-08-10T00:00:00.000,28.0,PLA DE L'ESTANY,17056.0,CORNELLÀ DEL TERRI,,No classificat,1.0,Dona,PCR probable,1,row-bt5g~jd67~djbn
+2020-08-12T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,Positiu per Test Ràpid,2,row-khxt~n4qw-ewee
+2020-09-22T00:00:00.000,8.0,BAIX CAMP,43123.0,REUS,,No classificat,1.0,Dona,PCR probable,7,row-k6iz_ev2g.vcmg
+2020-11-11T00:00:00.000,6.0,ANOIA,8250.0,SANTA MARGARIDA DE MONTBUI,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-sfts.jxwu~nxe4
+2020-08-03T00:00:00.000,40.0,VALLES OCCIDENTAL,8266.0,CERDANYOLA DEL VALLÈS,,No classificat,0.0,Home,PCR probable,2,row-4xst-acuh_9ckq
+2020-08-02T00:00:00.000,11.0,BAIX LLOBREGAT,8158.0,EL PAPIOL,,No classificat,0.0,Home,PCR probable,1,row-u7bn~igmf-yy6v
+2021-01-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per ELISA,1,row-bftt_ti2r~4tj5
+2020-06-13T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,2,row-kx3t-de6z_9hfv
+2020-04-29T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Epidemiològic,3,row-ax9j_5gy7~q5un
+2021-01-28T00:00:00.000,41.0,VALLES ORIENTAL,8106.0,LLINARS DEL VALLÈS,,No classificat,1.0,Dona,PCR probable,1,row-ix4m.rcua-brmk
+2020-05-18T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per ELISA,1,row-ctpx~af6x_sm44
+2020-06-15T00:00:00.000,13.0,BARCELONES,8194.0,SANT ADRIÀ DE BESÒS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-c36f~khym_khk5
+2021-01-22T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,0.0,Home,PCR probable,3,row-i6ra-mf3h-p9jn
+2020-12-11T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,1.0,Dona,Positiu per ELISA,1,row-wt5g~46sx.wr6r
+2020-09-25T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,PCR probable,4,row-skaf_rejc~uuw9
+2020-10-03T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,0.0,Home,Positiu per ELISA,1,row-jij7~r9mn~u736
+2020-10-24T00:00:00.000,6.0,ANOIA,8063.0,CASTELLOLÍ,,No classificat,0.0,Home,Positiu per ELISA,1,row-fv5k-pn5u-vqhz
+2021-01-18T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Epidemiològic,1,row-jkyu.5zb3~4c5e
+2020-09-16T00:00:00.000,33.0,SEGRIA,25120.0,LLEIDA,,No classificat,1.0,Dona,Epidemiològic,1,row-m59q.c97x~z32g
+2020-10-19T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,0.0,Home,PCR probable,1,row-cqqi~mmpg-56ej
+2020-12-18T00:00:00.000,31.0,RIPOLLES,17036.0,CAMPDEVÀNOL,,No classificat,1.0,Dona,Positiu per ELISA,1,row-t8j5.veyf_iqnz
+2021-02-25T00:00:00.000,17.0,GARRAF,8231.0,SANT PERE DE RIBES,,No classificat,0.0,Home,PCR probable,1,row-b24k-bxqk_hmtc
+2020-04-15T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-wihe.htj4-vjeg
+2021-01-11T00:00:00.000,34.0,SELVA,17023.0,BLANES,,No classificat,0.0,Home,Positiu per ELISA,1,row-asb7.9pv2_xxw9
+2020-03-25T00:00:00.000,11.0,BAIX LLOBREGAT,8068.0,CERVELLÓ,,No classificat,0.0,Home,PCR probable,1,row-9d6s-j8ay-ecat
+2020-04-24T00:00:00.000,21.0,MARESME,8110.0,MALGRAT DE MAR,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-yuye.m74v_96m4
+2020-10-10T00:00:00.000,20.0,GIRONES,17215.0,VILABLAREIX,,No classificat,0.0,Home,Positiu per ELISA,1,row-h84v-vcye-km24
+2020-05-06T00:00:00.000,6.0,ANOIA,8071.0,COPONS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-xw2i.yqxi_hri4
+2020-04-30T00:00:00.000,28.0,PLA DE L'ESTANY,17015.0,BANYOLES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-ab76~bpeg~5ie3
+2020-03-30T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,1.0,Dona,PCR probable,2,row-j2fr_vunm-uk6x
+2020-08-07T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,Positiu per ELISA,2,row-qq2e_jxz4-a4gq
+2020-04-10T00:00:00.000,11.0,BAIX LLOBREGAT,8157.0,PALLEJÀ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-sm5n_dizf.gqrb
+2020-04-15T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,1.0,Dona,Positiu per ELISA,7,row-8nt6.xk7n~6sts
+2020-05-27T00:00:00.000,41.0,VALLES ORIENTAL,8207.0,SANT ESTEVE DE PALAUTORDERA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-v6xe.h3c9_f5jt
+2020-11-14T00:00:00.000,21.0,MARESME,8284.0,TORDERA,,No classificat,0.0,Home,PCR probable,1,row-du9k~4d63-yjqw
+2020-08-26T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,PCR probable,1,row-rkyy~7593_9hmx
+2021-01-12T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,1.0,Dona,Positiu per ELISA,1,row-vw5q~3cp4_5j5z
+2020-05-29T00:00:00.000,11.0,BAIX LLOBREGAT,8196.0,SANT ANDREU DE LA BARCA,,No classificat,1.0,Dona,PCR probable,1,row-vmh5~di5b.qim5
+2020-04-01T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per ELISA,2,row-tyy5.xsgx-qh6g
+2021-01-08T00:00:00.000,6.0,ANOIA,8102.0,IGUALADA,,No classificat,1.0,Dona,PCR probable,1,row-zp5n_6sd7_9kuq
+2020-06-15T00:00:00.000,32.0,SEGARRA,25110.0,GUISSONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,4,row-shjm-sz7j_673q
+2020-04-08T00:00:00.000,40.0,VALLES OCCIDENTAL,8238.0,SANT QUIRZE DEL VALLÈS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-np4a-nvc7~hmnt
+2020-05-26T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,0.0,Home,Positiu per ELISA,8,row-vq9t~fk9g~un8z
+2020-08-05T00:00:00.000,24.0,OSONA,8246.0,SANTA EUGÈNIA DE BERGA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-hjed_33km~trbh
+2020-04-08T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,2,row-hme7.ggtk~7wjc
+2020-04-07T00:00:00.000,40.0,VALLES OCCIDENTAL,8238.0,SANT QUIRZE DEL VALLÈS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-e2j9-j2qg_dikt
+2020-09-03T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,4,row-n4a2~brr6-qggp
+2020-11-02T00:00:00.000,8.0,BAIX CAMP,43123.0,REUS,,No classificat,1.0,Dona,PCR probable,1,row-yieu~4q26.c2cn
+2020-10-08T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,PCR probable,1,row-zwr3~y94h~sn87
+2020-10-13T00:00:00.000,6.0,ANOIA,8161.0,PIERA,,No classificat,1.0,Dona,PCR probable,1,row-b84g-bubh-cd32
+2020-08-11T00:00:00.000,40.0,VALLES OCCIDENTAL,8904.0,BADIA DEL VALLÈS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-kqag.h3d6~phtm
+2020-08-28T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,1.0,Dona,PCR probable,1,row-jg9n-qygk.jrze
+2021-01-29T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,Positiu per ELISA,3,row-b7gz.b8at.ytjy
+2021-01-07T00:00:00.000,6.0,ANOIA,8102.0,IGUALADA,,No classificat,0.0,Home,PCR probable,2,row-h2mm-ja4a_hykv
+2020-12-01T00:00:00.000,3.0,ALT PENEDES,8305.0,VILAFRANCA DEL PENEDÈS,,No classificat,1.0,Dona,PCR probable,1,row-xm4r.ti9e~gcir
+2020-05-08T00:00:00.000,11.0,BAIX LLOBREGAT,8196.0,SANT ANDREU DE LA BARCA,,No classificat,1.0,Dona,Positiu per Test Ràpid,3,row-mxas.zyja-zbzg
+2021-02-26T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,1.0,Dona,Positiu per Test Ràpid,2,row-wk86~tgxq.ewd6
+2020-10-06T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,PCR probable,1,row-2qpv.7pkb-bz8x
+2021-01-28T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,0.0,Home,PCR probable,2,row-qg45_qxaw~7hgx
+2020-08-21T00:00:00.000,33.0,SEGRIA,25120.0,LLEIDA,,No classificat,0.0,Home,Epidemiològic,1,row-njqx_3k6a-jvid
+2020-11-30T00:00:00.000,36.0,TARRAGONES,43907.0,LA CANONJA,,No classificat,1.0,Dona,PCR probable,1,row-hvu9_wdrh~4c7x
+2020-05-04T00:00:00.000,2.0,ALT EMPORDA,17016.0,BÀSCARA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-u583.brek-znh3
+2020-08-10T00:00:00.000,40.0,VALLES OCCIDENTAL,8266.0,CERDANYOLA DEL VALLÈS,,No classificat,0.0,Home,Positiu per Test Ràpid,3,row-8his_fmt2_sxvd
+2020-05-27T00:00:00.000,11.0,BAIX LLOBREGAT,8157.0,PALLEJÀ,,No classificat,1.0,Dona,Positiu per ELISA,2,row-t7z4-es9x.ijyt
+2020-05-30T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,PCR probable,2,row-enbz-vsya.9h5v
+2020-09-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,0.0,Home,Positiu per Test Ràpid,2,row-48hv~dn2a_bjnv
+2020-05-27T00:00:00.000,11.0,BAIX LLOBREGAT,8077.0,ESPLUGUES DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,5,row-47tu.5w5q_5cam
+2021-02-04T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,4,row-xpqy_qmbk_iuez
+2020-10-22T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,4,row-va6v~pbmj-mt46
+2020-12-02T00:00:00.000,11.0,BAIX LLOBREGAT,8221.0,SANT JUST DESVERN,,No classificat,1.0,Dona,PCR probable,1,row-8vcb.3fxk-mcd6
+2020-12-06T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,1.0,Dona,PCR probable,1,row-vzc7.3end-m55j
+2020-08-28T00:00:00.000,10.0,BAIX EMPORDA,17160.0,SANT FELIU DE GUÍXOLS,,No classificat,0.0,Home,PCR probable,1,row-dnwg_euqe.kigh
+2020-10-17T00:00:00.000,11.0,BAIX LLOBREGAT,8263.0,SANT VICENÇ DELS HORTS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-cd3h-6a6s_h4h6
+2020-11-18T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,0.0,Home,Positiu per ELISA,1,row-78q3-sqmc_dv4n
+2020-12-31T00:00:00.000,24.0,OSONA,8298.0,VIC,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-mttt-5zm6_ikri
+2020-12-26T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,PCR probable,1,row-vpqc-4xx7-ctvf
+2020-12-28T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,2,row-q9ic-f9hd~vu2h
+2020-12-22T00:00:00.000,19.0,GARROTXA,17114.0,OLOT,,No classificat,1.0,Dona,PCR probable,1,row-fj5r_453r~td6z
+2021-03-24T00:00:00.000,7.0,BAGES,8213.0,SANT FRUITÓS DE BAGES,,No classificat,1.0,Dona,Positiu PCR,2,row-fday~9ij6_ztgt
+2020-09-23T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,Positiu per Test Ràpid,1,row-c3jh-yf44~pyx7
+2020-07-23T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,Positiu per ELISA,3,row-jphc.cvxc~5rxy
+2020-05-20T00:00:00.000,32.0,SEGARRA,25110.0,GUISSONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-zub3~xzdy~dbrc
+2020-09-23T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,1.0,Dona,Epidemiològic,2,row-igvk.aget_iqvg
+2020-07-05T00:00:00.000,18.0,GARRIGUES,25058.0,LES BORGES BLANQUES,,No classificat,0.0,Home,Epidemiològic,1,row-3a73.hv8b.fvtm
+2020-09-01T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-v84e-smx3.w2yi
+2020-09-14T00:00:00.000,12.0,BAIX PENEDES,43163.0,EL VENDRELL,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-3ck5~9na9_kdq8
+2020-09-15T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-exsv.fwdw.g55r
+2020-09-23T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,2,row-n3v7_jsv2_3p66
+2020-09-15T00:00:00.000,40.0,VALLES OCCIDENTAL,8266.0,CERDANYOLA DEL VALLÈS,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-hzbq~tc6r~y966
+2020-05-20T00:00:00.000,19.0,GARROTXA,17185.0,SANT JOAN LES FONTS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-j5jj~xtur-v3h7
+2020-04-28T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,14,row-8cve~73fh.rtcv
+2021-01-05T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per ELISA,2,row-bmx4~ie7y.uw8u
+2020-11-03T00:00:00.000,20.0,GIRONES,17044.0,CASSÀ DE LA SELVA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-y9kv~cnbu~dgp7
+2020-10-31T00:00:00.000,41.0,VALLES ORIENTAL,8248.0,SANTA EULÀLIA DE RONÇANA,,No classificat,1.0,Dona,PCR probable,1,row-wf47.3rhs.igrn
+2020-10-19T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,PCR probable,4,row-2x5s-vekq-shtp
+2020-12-10T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,Positiu per ELISA,4,row-jtxt_cdbc_xmvk
+2020-12-09T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Positiu per ELISA,1,row-tsns-t525-vmee
+2020-08-13T00:00:00.000,8.0,BAIX CAMP,43129.0,RIUDOMS,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-fbhr-z2bd.fzi7
+2020-11-02T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,1,row-yxgd.wc33.j2u6
+2020-11-01T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,1,row-v67z-fc4h.5na6
+2020-05-20T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,PCR probable,1,row-bbj7_g59e_4f2j
+2020-05-18T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-vht7.tqup_grti
+2020-05-08T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per Test Ràpid,2,row-kcxa.vxg2~s75x
+2020-05-21T00:00:00.000,11.0,BAIX LLOBREGAT,8077.0,ESPLUGUES DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-ihtk.pmgw.nrsz
+2020-05-14T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-dbfe-74im-jaxq
+2020-09-08T00:00:00.000,36.0,TARRAGONES,43148.0,TARRAGONA,,No classificat,1.0,Dona,Positiu per ELISA,2,row-nnrf.95gr-us2g
+2020-09-10T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,2,row-94ya-pxtn_cuvd
+2021-02-23T00:00:00.000,8.0,BAIX CAMP,43092.0,MONT-ROIG DEL CAMP,,No classificat,0.0,Home,Positiu per ELISA,1,row-kkac~p69j~7mx3
+2021-02-22T00:00:00.000,6.0,ANOIA,8162.0,ELS HOSTALETS DE PIEROLA,,No classificat,1.0,Dona,PCR probable,1,row-qe75_5b53_gr2x
+2021-02-19T00:00:00.000,13.0,BARCELONES,8194.0,SANT ADRIÀ DE BESÒS,,No classificat,0.0,Home,Positiu per ELISA,1,row-zc85-aus4~xfa9
+2020-09-15T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-7z5z.cr9v-nbh8
+2020-08-11T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-5b96_6m86-7y83
+2020-08-27T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-n6um.hn64_uw64
+2020-08-26T00:00:00.000,41.0,VALLES ORIENTAL,8135.0,MONTMELÓ,,No classificat,0.0,Home,Positiu per Test Ràpid,4,row-6dpp.b67w-eimp
+2021-02-20T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-hx3f_93zw.rxtd
+2020-07-09T00:00:00.000,41.0,VALLES ORIENTAL,8106.0,LLINARS DEL VALLÈS,,No classificat,1.0,Dona,PCR probable,1,row-kga6-vdwq_cmhz
+2020-09-16T00:00:00.000,6.0,ANOIA,8102.0,IGUALADA,,No classificat,1.0,Dona,PCR probable,1,row-kncz~fx5s.6t2g
+2020-11-10T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,Positiu per ELISA,1,row-zf9x.quzx.2rpp
+2020-10-08T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,0.0,Home,PCR probable,2,row-7gn3-ai4s_fshy
+2020-04-29T00:00:00.000,21.0,MARESME,8035.0,CALELLA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-gs7w_kp2w.nwcw
+2020-10-27T00:00:00.000,40.0,VALLES OCCIDENTAL,8054.0,CASTELLBISBAL,,No classificat,1.0,Dona,Epidemiològic,1,row-pmwm_r6sg~yafb
+2020-11-11T00:00:00.000,3.0,ALT PENEDES,8305.0,VILAFRANCA DEL PENEDÈS,,No classificat,0.0,Home,PCR probable,1,row-vny3.y4mi~ey7b
+2020-10-27T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,0.0,Home,PCR probable,2,row-g8rw~2b54~y8gq
+2020-06-12T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Positiu per ELISA,3,row-mpyn_pvzy.yggd
+2020-05-22T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,Positiu per ELISA,3,row-zfy5-r5nx-a5ak
+2020-07-15T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,4,row-r9d9.4hdj.v5hz
+2020-10-04T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,0.0,Home,Positiu per ELISA,1,row-kc95~ffn2-q78v
+2020-04-10T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,Positiu per ELISA,3,row-rwvs_e5ke_65qy
+2020-08-04T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-9bjt.d3ze-isqu
+2020-07-17T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,0.0,Home,Positiu per Test Ràpid,5,row-f648_2san~695w
+2020-03-30T00:00:00.000,40.0,VALLES OCCIDENTAL,8238.0,SANT QUIRZE DEL VALLÈS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-biqg-8rhg.mguj
+2020-05-22T00:00:00.000,11.0,BAIX LLOBREGAT,8077.0,ESPLUGUES DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,2,row-kmic_8p5w_buxf
+2020-07-17T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,1.0,Dona,Positiu per Test Ràpid,12,row-xzti_7qnq_swqi
+2020-07-17T00:00:00.000,41.0,VALLES ORIENTAL,8124.0,MOLLET DEL VALLÈS,,No classificat,1.0,Dona,Positiu per Test Ràpid,7,row-9nnf-xfp5-d3y8
+2020-11-18T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,1.0,Dona,Positiu per ELISA,2,row-u9mg-n96b-b8hy
+2020-06-01T00:00:00.000,41.0,VALLES ORIENTAL,8005.0,L'AMETLLA DEL VALLÈS,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-32j2_bxxh-8net
+2020-05-05T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-ppsk.dtqm_dswk
+2020-06-03T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-eqzr.cwzt.acp2
+2020-05-08T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,Epidemiològic,13,row-wq98.5gvu.isvn
+2020-08-13T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,Positiu per ELISA,1,row-v8zq_4axj-6nvd
+2020-08-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,0.0,Home,PCR probable,2,row-qk9f.xikd_qiyt
+2020-08-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,0.0,Home,Positiu per ELISA,1,row-q8j2.a483.k4zp
+2020-10-06T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,0.0,Home,Positiu per ELISA,1,row-2rw7-zqng_h29g
+2021-03-25T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,Positiu per ELISA,1,row-fxf8-ik86-6vph
+2020-10-07T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,PCR probable,2,row-zpwb.x3ek-arxq
+2020-11-16T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,0.0,Home,Positiu per Test Ràpid,1,row-rd9g.vnds_fbeb
+2020-10-27T00:00:00.000,3.0,ALT PENEDES,8240.0,SANT SADURNÍ D'ANOIA,,No classificat,1.0,Dona,PCR probable,1,row-n3k3.en8b-ywe6
+2020-12-28T00:00:00.000,7.0,BAGES,8218.0,SANT JOAN DE VILATORRADA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-hegi~5kzx~ndmu
+2020-12-04T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per ELISA,3,row-e2v4.gp3p~8umi
+2020-12-04T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,Positiu per ELISA,2,row-7euc-dw2e_3ye8
+2020-11-10T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,PCR probable,1,row-hxa8.u93j.tzia
+2020-09-29T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per Test Ràpid,2,row-i7p4_h7fq~ffan
+2020-10-19T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Positiu per ELISA,1,row-sn8q_k3ht.e98g
+2020-09-09T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,PCR probable,1,row-j5ie~ezuf-42si
+2020-03-18T00:00:00.000,41.0,VALLES ORIENTAL,8210.0,SANT FELIU DE CODINES,,No classificat,0.0,Home,Epidemiològic,1,row-mby9-722a~jpzh
+2020-07-17T00:00:00.000,14.0,BERGUEDA,8049.0,CASSERRES,,No classificat,0.0,Home,Positiu per Test Ràpid,3,row-yjas~wfpk~eg74
+2020-07-24T00:00:00.000,41.0,VALLES ORIENTAL,8105.0,LA LLAGOSTA,,No classificat,1.0,Dona,Positiu per Test Ràpid,5,row-88tc-jkwy_7jpi
+2020-07-23T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,Positiu per Test Ràpid,3,row-9vc8_j8xq-nsaa
+2020-07-24T00:00:00.000,2.0,ALT EMPORDA,17066.0,FIGUERES,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-a8fs_try7-cgjc
+2020-07-20T00:00:00.000,21.0,MARESME,8172.0,PREMIÀ DE MAR,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-cvyd_die8.sy5x
+2020-11-22T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,0.0,Home,Epidemiològic,1,row-yczg-5g6r.dviz
+2020-04-07T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,1,row-i428-f3u3_v4p9
+2021-02-10T00:00:00.000,32.0,SEGARRA,25110.0,GUISSONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-kqfx~idbu-q75x
+2020-11-01T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,1.0,Dona,Epidemiològic,1,row-tvtz~ejk7-erg7
+2020-10-16T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,0.0,Home,Positiu per ELISA,1,row-kzu5~959x.y536
+2020-12-20T00:00:00.000,40.0,VALLES OCCIDENTAL,8291.0,VACARISSES,,No classificat,0.0,Home,Epidemiològic,1,row-gb5v.g5iw_7tuy
+2020-12-21T00:00:00.000,8.0,BAIX CAMP,43123.0,REUS,,No classificat,0.0,Home,Epidemiològic,1,row-i3ch-p2xv_qf5a
+2020-12-26T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,1.0,Dona,PCR probable,1,row-395f-eix7.zbbr
+2020-08-12T00:00:00.000,3.0,ALT PENEDES,8288.0,TORRELLES DE FOIX,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-pkt8-uwg7~7ryw
+2020-10-14T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,PCR probable,2,row-zvse-e9dc-3s7k
+2020-10-14T00:00:00.000,14.0,BERGUEDA,8011.0,AVIÀ,,No classificat,0.0,Home,PCR probable,1,row-2juv_bu2k~aic7
+2020-07-27T00:00:00.000,11.0,BAIX LLOBREGAT,8056.0,CASTELLDEFELS,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-huvd~s5nv~m2nf
+2020-11-30T00:00:00.000,12.0,BAIX PENEDES,43037.0,CALAFELL,,No classificat,0.0,Home,PCR probable,1,row-q2ht-g5z5~9gc8
+2020-07-23T00:00:00.000,20.0,GIRONES,17155.0,SALT,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-ynmi_scai_t7gd
+2020-07-22T00:00:00.000,2.0,ALT EMPORDA,17092.0,LLANÇÀ,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-khvr~3xvb-ixp3
+2020-11-10T00:00:00.000,41.0,VALLES ORIENTAL,8005.0,L'AMETLLA DEL VALLÈS,,No classificat,0.0,Home,Positiu per ELISA,2,row-dica_5k6t.837j
+2021-01-12T00:00:00.000,8.0,BAIX CAMP,43129.0,RIUDOMS,,No classificat,0.0,Home,Positiu per ELISA,1,row-jja9.sykh_spfa
+2021-02-02T00:00:00.000,3.0,ALT PENEDES,8251.0,SANTA MARGARIDA I ELS MONJOS,,No classificat,1.0,Dona,PCR probable,1,row-e7eg-4md6_x9t3
+2020-09-21T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per ELISA,1,row-is3f-acig~fqps
+2020-04-29T00:00:00.000,21.0,MARESME,8003.0,ALELLA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-pyp4_jgir_y83a
+2020-04-09T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Epidemiològic,1,row-4e8k.xvid_shnf
+2021-02-23T00:00:00.000,34.0,SELVA,17103.0,MAÇANET DE LA SELVA,,No classificat,1.0,Dona,PCR probable,1,row-mefi-mj8h-d7ub
+2020-06-01T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per Test Ràpid,1,row-u7p6.tvhg~vquv
+2020-07-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,Positiu per ELISA,3,row-5pbw_c3h3~f34x
+2020-07-17T00:00:00.000,40.0,VALLES OCCIDENTAL,8180.0,RIPOLLET,,No classificat,0.0,Home,Positiu per Test Ràpid,6,row-43ra~4eqb_4dxe
+2020-05-29T00:00:00.000,1.0,ALT CAMP,43160.0,VALLMOLL,,No classificat,1.0,Dona,PCR probable,1,row-pz46_bzin.er6b
+2020-09-23T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-rkz5.d9q9~4a87
+2020-08-08T00:00:00.000,40.0,VALLES OCCIDENTAL,8291.0,VACARISSES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-kfyb_96ay_jyb6
+2020-09-24T00:00:00.000,38.0,URGELL,25050.0,BELLPUIG,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-5duh~a2nv_w7cj
+2021-01-19T00:00:00.000,36.0,TARRAGONES,43148.0,TARRAGONA,,No classificat,1.0,Dona,PCR probable,2,row-z5w3_dc63_ufup
+2020-11-13T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,PCR probable,1,row-mka4_887u.sgqg
+2021-02-12T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,0.0,Home,Positiu per Test Ràpid,1,row-pn28-rg85-8ess
+2021-02-23T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,0.0,Home,Positiu per ELISA,3,row-x69z_3uee-ntcx
+2020-10-28T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,3,row-6frj.wjei~8wrj
+2020-12-19T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,1.0,Dona,Positiu per ELISA,2,row-rhgy_kh4u-iryz
+2020-11-05T00:00:00.000,34.0,SELVA,17193.0,SILS,,No classificat,0.0,Home,Positiu per ELISA,1,row-kwf7.65h9_r5tm
+2020-07-10T00:00:00.000,41.0,VALLES ORIENTAL,8096.0,GRANOLLERS,,No classificat,0.0,Home,Positiu per Test Ràpid,3,row-ccbr_dzds-y7vd
+2020-04-23T00:00:00.000,39.0,VALL D'ARAN,25025.0,NAUT ARAN,,No classificat,0.0,Home,Positiu per ELISA,1,row-cjqh~6udu~uaty
+2020-12-15T00:00:00.000,40.0,VALLES OCCIDENTAL,8125.0,MONTCADA I REIXAC,,No classificat,1.0,Dona,Positiu per ELISA,1,row-bycg-4w86~mkpd
+2021-01-19T00:00:00.000,11.0,BAIX LLOBREGAT,8123.0,MOLINS DE REI,,No classificat,0.0,Home,PCR probable,1,row-656v-by6s.sy7s
+2021-03-19T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,Positiu TAR,9,row-e92r_vcza~z2nk
+2020-07-22T00:00:00.000,41.0,VALLES ORIENTAL,8005.0,L'AMETLLA DEL VALLÈS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-is8u.sp2q-kjzc
+2020-10-02T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,PCR probable,3,row-r3xv_a3ax-v647
+2020-09-16T00:00:00.000,11.0,BAIX LLOBREGAT,8123.0,MOLINS DE REI,,No classificat,1.0,Dona,PCR probable,1,row-mf6i.gy8x.ufyy
+2020-06-29T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per Test Ràpid,6,row-c654.3n2e~xv7q
+2021-01-13T00:00:00.000,6.0,ANOIA,8162.0,ELS HOSTALETS DE PIEROLA,,No classificat,0.0,Home,PCR probable,1,row-e6mz~qy8c_n6sf
+2020-09-02T00:00:00.000,11.0,BAIX LLOBREGAT,8221.0,SANT JUST DESVERN,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-kyxk-iwfa-tdbs
+2020-09-28T00:00:00.000,11.0,BAIX LLOBREGAT,8123.0,MOLINS DE REI,,No classificat,1.0,Dona,PCR probable,1,row-ef47_h2dp-67aj
+2020-04-26T00:00:00.000,21.0,MARESME,8163.0,PINEDA DE MAR,,No classificat,0.0,Home,PCR probable,1,row-65bi-8m7q~4dsa
+2020-10-25T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,1,row-ztbu.2scx.bhiy
+2020-09-03T00:00:00.000,11.0,BAIX LLOBREGAT,8056.0,CASTELLDEFELS,,No classificat,1.0,Dona,PCR probable,1,row-q499-3t5r.7sac
+2020-05-08T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,0.0,Home,Epidemiològic,1,row-7rp2~87kv.ghee
+2020-10-26T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,1.0,Dona,Positiu per ELISA,1,row-mga5.e5b2~92tx
+2020-09-01T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,0.0,Home,Positiu per Test Ràpid,6,row-352n-wfsv~z9rf
+2020-05-20T00:00:00.000,11.0,BAIX LLOBREGAT,8056.0,CASTELLDEFELS,,No classificat,1.0,Dona,Positiu per ELISA,2,row-deun.tsbr-mw2h
+2020-06-05T00:00:00.000,7.0,BAGES,8191.0,SALLENT,,No classificat,0.0,Home,Positiu per ELISA,1,row-26y7_fmya-37ai
+2020-05-07T00:00:00.000,33.0,SEGRIA,25120.0,LLEIDA,,No classificat,1.0,Dona,Positiu per ELISA,2,row-vxur.ajnb~4pej
+2021-02-09T00:00:00.000,24.0,OSONA,8220.0,SANT JULIÀ DE VILATORTA,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-t4fa_ddzh.nqiz
+2020-05-13T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,2,row-gcds_qrjq.zmuz
+2020-10-02T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,0.0,Home,Positiu per ELISA,1,row-cqgq_v7iv-6mb3
+2020-10-13T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,0.0,Home,Positiu per ELISA,3,row-ft2q_jiyj~fy2m
+2020-10-26T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,PCR probable,1,row-tbk3.7sgm_pnw8
+2020-09-03T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-fizu~3gn6~y3dn
+2020-10-01T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per Test Ràpid,1,row-y73z_73jv~aw7v
+2020-09-03T00:00:00.000,41.0,VALLES ORIENTAL,8124.0,MOLLET DEL VALLÈS,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-ea9e-iypx~3tha
+2021-03-23T00:00:00.000,34.0,SELVA,17023.0,BLANES,,No classificat,1.0,Dona,Positiu PCR,4,row-ru2z-wcze.qtwz
+2020-09-02T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,1,row-sgpv-53dw.ipg5
+2020-11-21T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,1.0,Dona,PCR probable,1,row-ux5a~ffvh.c4q8
+2020-11-24T00:00:00.000,3.0,ALT PENEDES,8273.0,SUBIRATS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-uz29.5j9w~k32t
+2021-03-21T00:00:00.000,33.0,SEGRIA,25120.0,LLEIDA,,No classificat,1.0,Dona,Positiu TAR,8,row-sedi~94c4_r3u7
+2020-08-21T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-j6jq_25xx-sf6m
+2020-08-21T00:00:00.000,41.0,VALLES ORIENTAL,8296.0,VALLROMANES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-w2hh_w5rd-u562
+2020-05-13T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Positiu per ELISA,3,row-j7zu_seua-x8c8
+2020-03-16T00:00:00.000,,,,No classificat,,No classificat,,No classificat,Epidemiològic,3,row-dvny~uax5_z3ih
+2020-10-13T00:00:00.000,40.0,VALLES OCCIDENTAL,8266.0,CERDANYOLA DEL VALLÈS,,No classificat,0.0,Home,Epidemiològic,1,row-24ju~h82t-cqav
+2020-11-24T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,Positiu per ELISA,1,row-yqad-c9ah~syrx
+2021-01-08T00:00:00.000,25.0,PALLARS JUSSA,25171.0,LA POBLA DE SEGUR,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-i99f_yru2.sskt
+2020-04-01T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,0.0,Home,Epidemiològic,3,row-d8yr~cv5j_vh3t
+2020-05-20T00:00:00.000,33.0,SEGRIA,25211.0,SUDANELL,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-9nff.jwm9.ijui
+2020-05-18T00:00:00.000,11.0,BAIX LLOBREGAT,8056.0,CASTELLDEFELS,,No classificat,0.0,Home,PCR probable,1,row-fr4h~xrdd.mmu8
+2020-05-05T00:00:00.000,2.0,ALT EMPORDA,17152.0,ROSES,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-8bc5.sudt_6nvv
+2020-10-19T00:00:00.000,36.0,TARRAGONES,43148.0,TARRAGONA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-ikiv.75tw_ri76
+2020-05-25T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-h9c7.6k22~sjsv
+2020-12-21T00:00:00.000,12.0,BAIX PENEDES,43037.0,CALAFELL,,No classificat,1.0,Dona,Epidemiològic,1,row-9wf9~tiv5_fjsy
+2020-07-23T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,1.0,Dona,Positiu per Test Ràpid,1,row-a4ww-6jxz-z5ju
+2020-06-06T00:00:00.000,41.0,VALLES ORIENTAL,8107.0,LLIÇÀ D'AMUNT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-g7q5_8nan~u5w8
+2020-04-15T00:00:00.000,6.0,ANOIA,8161.0,PIERA,,No classificat,1.0,Dona,PCR probable,1,row-ydpu_9v9d.dkqd
+2020-12-15T00:00:00.000,11.0,BAIX LLOBREGAT,8069.0,COLLBATÓ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-xhj2.jhea~sz25
+2020-10-21T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Positiu per ELISA,2,row-fxgv-7pxw~hn6f
+2020-04-04T00:00:00.000,6.0,ANOIA,8044.0,CAPELLADES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-cd52~i62z-bxch
+2020-08-27T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-4s45-jir7~6hkn
+2020-08-19T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,1.0,Dona,Positiu per ELISA,4,row-ajxp.5w54-zj5e
+2020-04-21T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,PCR probable,1,row-im34_k56b.r5ua
+2020-11-28T00:00:00.000,33.0,SEGRIA,25120.0,LLEIDA,,No classificat,1.0,Dona,Positiu per ELISA,2,row-gcqx.9vu6.mm6z
+2020-10-04T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,0.0,Home,Positiu per ELISA,1,row-hsdy-93e3-i68j
+2020-05-10T00:00:00.000,14.0,BERGUEDA,8022.0,BERGA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-6j8y.afp7_ef9j
+2020-12-14T00:00:00.000,17.0,GARRAF,8307.0,VILANOVA I LA GELTRÚ,,No classificat,0.0,Home,Positiu per ELISA,1,row-w6h4.kgkh-7ceu
+2020-04-18T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,Positiu per ELISA,1,row-3u3g_cj4y.96hr
+2020-11-13T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,1.0,Dona,Positiu per ELISA,1,row-gpmx-4xxg-2hi9
+2020-09-04T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,0.0,Home,Positiu per ELISA,2,row-7ms4.8u3v-kw2j
+2021-01-12T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,0.0,Home,PCR probable,1,row-t5mb_6srw-tven
+2021-01-21T00:00:00.000,10.0,BAIX EMPORDA,17118.0,PALAMÓS,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-cbpr~w2gh.q6cb
+2021-02-03T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,0.0,Home,PCR probable,1,row-dnb3~8b5b~rz8n
+2021-01-26T00:00:00.000,6.0,ANOIA,8161.0,PIERA,,No classificat,1.0,Dona,PCR probable,1,row-nr78~skrd.a758
+2020-05-20T00:00:00.000,32.0,SEGARRA,25110.0,GUISSONA,,No classificat,0.0,Home,Positiu per Test Ràpid,7,row-89s8-7zxa~b95a
+2020-05-18T00:00:00.000,21.0,MARESME,8110.0,MALGRAT DE MAR,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-ddat~vhrn-6hqw
+2021-03-22T00:00:00.000,21.0,MARESME,8163.0,PINEDA DE MAR,,No classificat,1.0,Dona,Positiu PCR,6,row-ey27-jyfg_qnav
+2020-05-12T00:00:00.000,17.0,GARRAF,8270.0,SITGES,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-98sw-qe8s.5gf4
+2020-05-19T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per Test Ràpid,2,row-a5k3-9w9u~etmu
+2021-01-11T00:00:00.000,41.0,VALLES ORIENTAL,8014.0,AIGUAFREDA,,No classificat,1.0,Dona,PCR probable,1,row-xqn5-zjgm-m9te
+2020-08-25T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,PCR probable,1,row-tisu.tqka-gunr
+2020-04-07T00:00:00.000,40.0,VALLES OCCIDENTAL,8051.0,CASTELLAR DEL VALLÈS,,No classificat,1.0,Dona,PCR probable,1,row-phpb~9zb2~bnp4
+2020-04-07T00:00:00.000,7.0,BAGES,8218.0,SANT JOAN DE VILATORRADA,,No classificat,0.0,Home,Epidemiològic,1,row-d6vh.zbg8_jtiy
+2020-09-18T00:00:00.000,34.0,SELVA,17023.0,BLANES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-ds54.h3ui~zvx3
+2020-09-14T00:00:00.000,6.0,ANOIA,8102.0,IGUALADA,,No classificat,1.0,Dona,PCR probable,2,row-x5d4~g8ct.4yhd
+2020-09-16T00:00:00.000,41.0,VALLES ORIENTAL,8107.0,LLIÇÀ D'AMUNT,,No classificat,1.0,Dona,Epidemiològic,1,row-g3e3-w7jq.y7nu
+2020-04-15T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,0.0,Home,Positiu per ELISA,1,row-e4me_kd9k~awkr
+2020-05-14T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,0.0,Home,PCR probable,1,row-e528-hrrd-9w6h
+2020-07-28T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,5,row-6ztz_waxj.svet
+2020-07-28T00:00:00.000,24.0,OSONA,8171.0,PRATS DE LLUÇANÈS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-v3cj.r9e2~66fy
+2020-07-22T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,1.0,Dona,PCR probable,1,row-sq49_rjuy~zd2r
+2020-07-24T00:00:00.000,11.0,BAIX LLOBREGAT,8211.0,SANT FELIU DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,2,row-bmyr.i3rd_wj8e
+2020-11-05T00:00:00.000,11.0,BAIX LLOBREGAT,8158.0,EL PAPIOL,,No classificat,0.0,Home,PCR probable,1,row-7xme.v56k.79mp
+2020-11-06T00:00:00.000,36.0,TARRAGONES,43148.0,TARRAGONA,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-sde6.2wnx_8fww
+2020-10-02T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,0.0,Home,PCR probable,3,row-r4sy~jbqv_5ba7
+2021-03-26T00:00:00.000,6.0,ANOIA,8226.0,SANT MARTÍ DE TOUS,,No classificat,1.0,Dona,Positiu PCR,1,row-6xun.hb6n~i9i4
+2020-10-03T00:00:00.000,6.0,ANOIA,8165.0,LA POBLA DE CLARAMUNT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-hcbn.5jb2_ed2w
+2020-07-20T00:00:00.000,41.0,VALLES ORIENTAL,8209.0,SANT FOST DE CAMPSENTELLES,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-bfx6-9zzw.rqh8
+2020-06-15T00:00:00.000,36.0,TARRAGONES,43148.0,TARRAGONA,,No classificat,1.0,Dona,PCR probable,1,row-r3rf~i6g6.qt37
+2020-06-14T00:00:00.000,6.0,ANOIA,8250.0,SANTA MARGARIDA DE MONTBUI,,No classificat,1.0,Dona,Positiu per ELISA,1,row-s475_j7x6-25hf
+2021-01-28T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-zi8i.2n3e.rrkf
+2020-11-18T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,1.0,Dona,Positiu per Test Ràpid,1,row-cfeg.jzb5~cvsz
+2020-11-05T00:00:00.000,9.0,BAIX EBRE,43052.0,XERTA,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-67gc-ieq4_bm5k
+2020-11-23T00:00:00.000,20.0,GIRONES,17155.0,SALT,,No classificat,0.0,Home,Positiu per ELISA,1,row-j5u5.ipbv_jdqt
+2020-04-01T00:00:00.000,6.0,ANOIA,8071.0,COPONS,,No classificat,1.0,Dona,PCR probable,1,row-77kk.zvw7~bx5z
+2020-05-21T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,1.0,Dona,Positiu per ELISA,2,row-r6we-ep4x~m2tc
+2020-05-20T00:00:00.000,2.0,ALT EMPORDA,17135.0,PONT DE MOLINS,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-gjv9.4w7h_7b8n
+2020-06-08T00:00:00.000,40.0,VALLES OCCIDENTAL,8238.0,SANT QUIRZE DEL VALLÈS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-yqtd-rjb9.hui7
+2020-07-20T00:00:00.000,40.0,VALLES OCCIDENTAL,8180.0,RIPOLLET,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-f2pk.h87u_939g
+2021-02-01T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,0.0,Home,Positiu TAR,11,row-fyep~fbp5_gb3v
+2020-10-30T00:00:00.000,6.0,ANOIA,8102.0,IGUALADA,,No classificat,1.0,Dona,Positiu per Test Ràpid,3,row-443a_pubs-4qbn
+2021-01-08T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per ELISA,1,row-tks9-4qpm-26bf
+2020-05-27T00:00:00.000,34.0,SELVA,17213.0,VIDRERES,,No classificat,0.0,Home,PCR probable,1,row-pgvc_qj3f~pibs
+2020-05-27T00:00:00.000,36.0,TARRAGONES,43148.0,TARRAGONA,,No classificat,1.0,Dona,PCR probable,1,row-dmaa.jtfv_bfpf
+2020-05-15T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,0.0,Home,PCR probable,1,row-x77b~nv6h-z54j
+2020-08-26T00:00:00.000,40.0,VALLES OCCIDENTAL,8260.0,SANTA PERPÈTUA DE MOGODA,,No classificat,0.0,Home,Epidemiològic,1,row-iqee.7jbj.gyhg
+2020-08-21T00:00:00.000,1.0,ALT CAMP,43161.0,VALLS,,No classificat,1.0,Dona,Epidemiològic,1,row-dr4u_p3ks_jvag
+2020-07-28T00:00:00.000,34.0,SELVA,17164.0,SANT HILARI SACALM,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-bn7t~vwng~pa7w
+2020-05-01T00:00:00.000,21.0,MARESME,8172.0,PREMIÀ DE MAR,,No classificat,1.0,Dona,Positiu per ELISA,1,row-k9rn.4nkh-7seu
+2020-06-04T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,0.0,Home,Positiu per ELISA,1,row-kz67_h4ii_9g65
+2020-04-30T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,0.0,Home,Epidemiològic,2,row-4xn4~pfm2_vgax
+2021-01-22T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,PCR probable,2,row-9ukq~7rfj_wszb
+2020-10-14T00:00:00.000,41.0,VALLES ORIENTAL,8159.0,PARETS DEL VALLÈS,,No classificat,0.0,Home,Positiu per ELISA,1,row-mfq3-x3zd~evvc
+2020-11-05T00:00:00.000,41.0,VALLES ORIENTAL,8046.0,CARDEDEU,,No classificat,0.0,Home,Positiu per ELISA,1,row-yyh3_v3nz-8nps
+2020-11-06T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,1.0,Dona,PCR probable,1,row-ka5n~8qks~67th
+2020-04-07T00:00:00.000,42.0,MOIANÈS,8138.0,MOIÀ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-jjju_reu8-ph2z
+2020-04-12T00:00:00.000,11.0,BAIX LLOBREGAT,8114.0,MARTORELL,,No classificat,1.0,Dona,Positiu per ELISA,1,row-yfid~hwcw~pb2z
+2020-10-20T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,0.0,Home,Positiu per ELISA,1,row-cdr2-yiuu_d5p7
+2020-08-20T00:00:00.000,16.0,CONCA DE BARBERA,43021.0,BARBERÀ DE LA CONCA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-wcde.c8yt.ee9g
+2020-09-27T00:00:00.000,11.0,BAIX LLOBREGAT,8244.0,SANTA COLOMA DE CERVELLÓ,,No classificat,0.0,Home,PCR probable,1,row-xtji_fznr-74a6
+2020-09-30T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-a4sn~aj7t-2vqa
+2020-09-28T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,1.0,Dona,Positiu per Test Ràpid,3,row-mcci_symu~9dfk
+2020-08-03T00:00:00.000,11.0,BAIX LLOBREGAT,8123.0,MOLINS DE REI,,No classificat,1.0,Dona,PCR probable,1,row-prxu-z5it.xyrs
+2020-03-24T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,1.0,Dona,Positiu per ELISA,1,row-x42h~ezi6-nj4j
+2020-09-30T00:00:00.000,6.0,ANOIA,8031.0,CALAF,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-2ee3~bede~tera
+2020-03-26T00:00:00.000,21.0,MARESME,8172.0,PREMIÀ DE MAR,,No classificat,1.0,Dona,Positiu per ELISA,1,row-gjzx_apnb~k49j
+2020-06-11T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,0.0,Home,Positiu per ELISA,1,row-s7cu_t75m-qkda
+2020-03-17T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,Positiu per ELISA,2,row-dw2z.676n-yr3s
+2021-03-24T00:00:00.000,7.0,BAGES,8192.0,SANTPEDOR,,No classificat,0.0,Home,Positiu PCR,1,row-xcst.dg7w~f7pt
+2020-05-07T00:00:00.000,32.0,SEGARRA,25110.0,GUISSONA,,No classificat,1.0,Dona,Epidemiològic,1,row-fsv4~xt77_46bf
+2020-08-03T00:00:00.000,6.0,ANOIA,8102.0,IGUALADA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-4qnm-uzgp_9zsa
+2021-02-24T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,1.0,Dona,Positiu per ELISA,1,row-sj6k.ef7n~5d8z
+2021-02-24T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,0.0,Home,Positiu per ELISA,2,row-djiz~gf9v_uxu9
+2020-09-17T00:00:00.000,21.0,MARESME,8172.0,PREMIÀ DE MAR,,No classificat,1.0,Dona,Positiu per ELISA,1,row-c5fg~8kep-ff7w
+2021-01-26T00:00:00.000,42.0,MOIANÈS,8055.0,CASTELLCIR,,No classificat,1.0,Dona,PCR probable,1,row-vuy9~kw5n.fny8
+2020-07-15T00:00:00.000,41.0,VALLES ORIENTAL,8136.0,MONTORNÈS DEL VALLÈS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-4axi_8mwi-tz73
+2020-07-14T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,0.0,Home,Positiu per Test Ràpid,10,row-xijh.kf26~t2vh
+2020-07-15T00:00:00.000,7.0,BAGES,8218.0,SANT JOAN DE VILATORRADA,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-jqdu.irx7-ygsx
+2020-07-15T00:00:00.000,41.0,VALLES ORIENTAL,8198.0,SANT ANTONI DE VILAMAJOR,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-weaj-cih6~9x3v
+2020-07-17T00:00:00.000,,,,No classificat,,No classificat,,No classificat,Epidemiològic,5,row-4evs_j7m5_q5b2
+2020-07-17T00:00:00.000,6.0,ANOIA,8165.0,LA POBLA DE CLARAMUNT,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-gmej.hw52~ufn3
+2020-07-18T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,1.0,Dona,Positiu per ELISA,1,row-twgc-u6xp_vai5
+2020-09-09T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,Positiu per ELISA,2,row-geww_6w9z~qafu
+2020-10-29T00:00:00.000,11.0,BAIX LLOBREGAT,8157.0,PALLEJÀ,,No classificat,1.0,Dona,PCR probable,1,row-ujs4-9ume-iavj
+2021-01-23T00:00:00.000,40.0,VALLES OCCIDENTAL,8180.0,RIPOLLET,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-wxph~uyer~guei
+2020-04-11T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Epidemiològic,2,row-v636.ys5t-uy29
+2020-09-21T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-6x5g~rqpj_f7yk
+2020-10-13T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,0.0,Home,Positiu per Test Ràpid,1,row-ntfr.dtrz_qnc2
+2020-11-21T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,2,row-xg2p-b594.4hva
+2020-09-20T00:00:00.000,39.0,VALL D'ARAN,25243.0,VIELHA E MIJARAN,,No classificat,1.0,Dona,Positiu per ELISA,1,row-s9yp.ijck-h2ne
+2020-10-08T00:00:00.000,41.0,VALLES ORIENTAL,8107.0,LLIÇÀ D'AMUNT,,No classificat,0.0,Home,Epidemiològic,1,row-v3bv_h66t_a3ez
+2020-08-10T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-wnkn-usij.gyji
+2020-12-31T00:00:00.000,17.0,GARRAF,8307.0,VILANOVA I LA GELTRÚ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-kqh5_dmfd~brs9
+2020-12-20T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-xnmz.3kvx.mdjj
+2021-03-26T00:00:00.000,36.0,TARRAGONES,43144.0,LA SECUITA,,No classificat,0.0,Home,Positiu TAR,1,row-ukk2~4yxw_5449
+2020-05-06T00:00:00.000,6.0,ANOIA,8165.0,LA POBLA DE CLARAMUNT,,No classificat,1.0,Dona,Positiu per ELISA,3,row-43wv_s22f~jdq7
+2020-09-05T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,0.0,Home,Positiu per ELISA,1,row-zqw9_ts47-95dj
+2020-12-13T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,1.0,Dona,Positiu per ELISA,1,row-dwzy~n4ie.gh4q
+2020-10-20T00:00:00.000,21.0,MARESME,8040.0,CANET DE MAR,,No classificat,1.0,Dona,PCR probable,1,row-4bz3_ivbk~nuvp
+2020-10-26T00:00:00.000,40.0,VALLES OCCIDENTAL,8904.0,BADIA DEL VALLÈS,,No classificat,1.0,Dona,Epidemiològic,1,row-kbr7~w55g_3854
+2021-01-14T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,1.0,Dona,PCR probable,1,row-sai3.qrhx.wznh
+2020-12-03T00:00:00.000,21.0,MARESME,8118.0,EL MASNOU,,No classificat,1.0,Dona,Positiu per ELISA,1,row-c23g.drtm-pjr3
+2020-08-21T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-9xq4~x2uu_uct6
+2020-08-20T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,0.0,Home,PCR probable,1,row-zaif-7n3x~vj5y
+2021-03-26T00:00:00.000,27.0,PLA D'URGELL,25248.0,VILANOVA DE BELLPUIG,,No classificat,0.0,Home,Positiu TAR,1,row-jh55-spge_hm7c
+2020-04-20T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,0.0,Home,Epidemiològic,3,row-krsa~87qc~p5qc
+2020-04-04T00:00:00.000,11.0,BAIX LLOBREGAT,8196.0,SANT ANDREU DE LA BARCA,,No classificat,0.0,Home,PCR probable,4,row-unat_mwus-s4c8
+2020-04-21T00:00:00.000,24.0,OSONA,8117.0,LES MASIES DE VOLTREGÀ,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-k6ie.9fk2-2g3m
+2020-04-16T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,0.0,Home,Positiu per Test Ràpid,1,row-zn9i-qd2v~i3cr
+2020-09-28T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,0.0,Home,Positiu per Test Ràpid,3,row-w7dc_ak9d-w8su
+2020-09-18T00:00:00.000,11.0,BAIX LLOBREGAT,8157.0,PALLEJÀ,,No classificat,0.0,Home,PCR probable,1,row-znmz.q9me.226c
+2020-10-28T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,Positiu per ELISA,1,row-5d9v.xdjz~t2um
+2020-05-05T00:00:00.000,11.0,BAIX LLOBREGAT,8072.0,CORBERA DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,1,row-svpz-cgjj-ny2b
+2020-04-22T00:00:00.000,21.0,MARESME,8006.0,ARENYS DE MAR,,No classificat,0.0,Home,PCR probable,1,row-7dyx_ay6t_dq9a
+2020-11-27T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,Positiu per ELISA,4,row-m5mu_j8sp_vyqy
+2020-10-22T00:00:00.000,33.0,SEGRIA,25228.0,TORREFARRERA,,No classificat,1.0,Dona,Epidemiològic,1,row-27xm.tg4c~hsn2
+2020-08-07T00:00:00.000,21.0,MARESME,8006.0,ARENYS DE MAR,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-x22j_qivi.i5ws
+2020-10-25T00:00:00.000,11.0,BAIX LLOBREGAT,8211.0,SANT FELIU DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-6xmg~zvjj-3x5w
+2020-07-21T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,1.0,Dona,Positiu per Test Ràpid,3,row-fqq4~8t3a~zxau
+2020-07-21T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,Positiu per ELISA,1,row-ea99_x4mi~tcmb
+2020-07-21T00:00:00.000,3.0,ALT PENEDES,8305.0,VILAFRANCA DEL PENEDÈS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-jzv7-dczy_ykun
+2021-02-19T00:00:00.000,8.0,BAIX CAMP,43123.0,REUS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-kp2q.q2qd.4zty
+2021-02-01T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,0.0,Home,Positiu PCR,9,row-byw8_pb7h_7zcm
+2020-07-23T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,1.0,Dona,Positiu per Test Ràpid,9,row-a5w3_ub2v-ndxh
+2020-07-25T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,0.0,Home,PCR probable,1,row-nhsv.qhjw-mm8h
+2020-07-16T00:00:00.000,40.0,VALLES OCCIDENTAL,8180.0,RIPOLLET,,No classificat,0.0,Home,Positiu per Test Ràpid,7,row-xqtj_jm34-m898
+2020-11-05T00:00:00.000,41.0,VALLES ORIENTAL,8124.0,MOLLET DEL VALLÈS,,No classificat,0.0,Home,Epidemiològic,1,row-ifw9-c4ks.j967
+2020-05-07T00:00:00.000,41.0,VALLES ORIENTAL,8096.0,GRANOLLERS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-tie6~pw2c.v7q4
+2020-07-28T00:00:00.000,40.0,VALLES OCCIDENTAL,8266.0,CERDANYOLA DEL VALLÈS,,No classificat,0.0,Home,PCR probable,1,row-6anx_mu92.5at8
+2020-08-21T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,PCR probable,1,row-49iv-ebhg_efyw
+2021-03-17T00:00:00.000,41.0,VALLES ORIENTAL,8124.0,MOLLET DEL VALLÈS,,No classificat,1.0,Dona,Positiu PCR,7,row-acrb-5639~q26c
+2020-07-27T00:00:00.000,8.0,BAIX CAMP,43123.0,REUS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-crmv~m3r7.pdvp
+2020-07-28T00:00:00.000,40.0,VALLES OCCIDENTAL,8180.0,RIPOLLET,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-ww96~zbag~y248
+2020-04-14T00:00:00.000,11.0,BAIX LLOBREGAT,8208.0,SANT ESTEVE SESROVIRES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-r6pu_nntu-ijy2
+2020-08-04T00:00:00.000,40.0,VALLES OCCIDENTAL,8156.0,PALAU-SOLITÀ I PLEGAMANS,,No classificat,1.0,Dona,Positiu per Test Ràpid,3,row-ch2k.cx7y.yby7
+2020-08-03T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-2ubi.hqsd_pxjc
+2020-09-03T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,0.0,Home,Positiu per Test Ràpid,1,row-iff8-nmyv_5gdh
+2020-09-02T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per Test Ràpid,2,row-gx75-kav6.7238
+2020-07-24T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,Positiu per Test Ràpid,2,row-k7fi~hx85.vvph
+2020-07-22T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,PCR probable,1,row-g8fk_ej7p.padt
+2020-07-22T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-vc9a.hwr6~d9mr
+2020-09-19T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,PCR probable,1,row-rw2i_j4q3-wbqb
+2020-06-10T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-9giv_igr4-7wev
+2020-11-03T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,1,row-di8s_t3gc.xh66
+2021-03-24T00:00:00.000,42.0,MOIANÈS,8258.0,SANTA MARIA D'OLÓ,,No classificat,0.0,Home,Positiu PCR,1,row-pi2h-ygjj_2v6a
+2020-07-24T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-6xfi.ntby-u3p6
+2020-07-23T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-jrf6~27e7~wa8k
+2020-09-22T00:00:00.000,11.0,BAIX LLOBREGAT,8211.0,SANT FELIU DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-khjr_wzay.hzxw
+2020-09-22T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,2,row-druk_k2qa~k3u3
+2020-09-22T00:00:00.000,19.0,GARROTXA,17114.0,OLOT,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-vnqc.mpei_j5h3
+2020-07-29T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,1.0,Dona,Positiu per Test Ràpid,2,row-3bw3.jfkx_68ba
+2020-11-12T00:00:00.000,8.0,BAIX CAMP,43003.0,L'ALBIOL,,No classificat,1.0,Dona,PCR probable,1,row-qnjp-dfzd_3vg4
+2020-05-06T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,4,row-pgf4_xgay-m7wn
+2020-09-22T00:00:00.000,11.0,BAIX LLOBREGAT,8077.0,ESPLUGUES DE LLOBREGAT,,No classificat,0.0,Home,PCR probable,1,row-xsbv-fn3i~wx7a
+2020-04-03T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,1.0,Dona,Positiu per ELISA,4,row-4f3b-aas9~mz2p
+2020-04-24T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Epidemiològic,4,row-j5nd~pii5~nia3
+2020-08-14T00:00:00.000,41.0,VALLES ORIENTAL,8096.0,GRANOLLERS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-rfra-2b7b-4jn5
+2020-05-27T00:00:00.000,40.0,VALLES OCCIDENTAL,8260.0,SANTA PERPÈTUA DE MOGODA,,No classificat,0.0,Home,Positiu per ELISA,1,row-4acn_9p49~dqsb
+2020-04-09T00:00:00.000,11.0,BAIX LLOBREGAT,8147.0,OLESA DE MONTSERRAT,,No classificat,0.0,Home,Positiu per ELISA,1,row-py8h~k2kn_thhe
+2020-03-22T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,0.0,Home,Epidemiològic,1,row-4tsr_mqmu.89y6
+2020-04-12T00:00:00.000,,,,No classificat,,No classificat,,No classificat,Epidemiològic,3,row-j6ys~72ub_vbra
+2020-05-12T00:00:00.000,11.0,BAIX LLOBREGAT,8072.0,CORBERA DE LLOBREGAT,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-t3t9-73bb.t98a
+2020-05-26T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,1.0,Dona,Positiu per ELISA,1,row-zupk~5qem-27rr
+2020-05-27T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,6,row-2hzh_rg8s.k6qr
+2020-05-30T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,PCR probable,1,row-tgaj~itdj~7vj3
+2020-04-18T00:00:00.000,39.0,VALL D'ARAN,25059.0,BOSSÒST,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-mmdh.kfks.caw4
+2020-06-18T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,Positiu per Test Ràpid,5,row-skh5_iq2u-e5ir
+2020-07-14T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,0.0,Home,Positiu per Test Ràpid,4,row-484m_pqc2.58zw
+2020-08-05T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,Positiu per ELISA,1,row-r83k_4ci6_2h4v
+2020-10-30T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,PCR probable,1,row-bnwh~ajv4~tcjf
+2020-10-26T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,0.0,Home,PCR probable,3,row-yvr4_i9un-hkrh
+2020-06-12T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,PCR probable,1,row-ejie_jzvn_x36s
+2021-03-26T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,1.0,Dona,Positiu TAR,1,row-y585.tgtc.4bcu
+2020-04-23T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,0.0,Home,Epidemiològic,3,row-i7mw.jc4f.jt8q
+2020-07-03T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,Positiu per ELISA,1,row-xirw_kcdz~m9dm
+2020-10-22T00:00:00.000,41.0,VALLES ORIENTAL,8202.0,SANT CELONI,,No classificat,0.0,Home,Epidemiològic,1,row-xygr.i4s2.mt5c
+2020-11-04T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,0.0,Home,PCR probable,1,row-p2zv_yti7_pvd9
+2020-11-06T00:00:00.000,41.0,VALLES ORIENTAL,8124.0,MOLLET DEL VALLÈS,,No classificat,1.0,Dona,Epidemiològic,1,row-8qez_bu3u-zvsm
+2020-12-14T00:00:00.000,10.0,BAIX EMPORDA,17034.0,CALONGE I SANT ANTONI,,No classificat,0.0,Home,Epidemiològic,1,row-63f8.nirz~kyc9
+2020-12-13T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,1.0,Dona,Positiu per ELISA,2,row-fvcz_kh9w_bs8f
+2020-10-29T00:00:00.000,14.0,BERGUEDA,8175.0,PUIG-REIG,,No classificat,0.0,Home,Positiu per ELISA,1,row-64bx.t8jw~34yn
+2020-10-28T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,1,row-27tf.fvvu.efd6
+2020-05-07T00:00:00.000,3.0,ALT PENEDES,8305.0,VILAFRANCA DEL PENEDÈS,,No classificat,0.0,Home,Positiu per ELISA,1,row-8g7h_4heb-vwfb
+2020-04-24T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,0.0,Home,Positiu per Test Ràpid,1,row-5ufs_pmrc.27up
+2020-05-21T00:00:00.000,7.0,BAGES,8274.0,SÚRIA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-6qd3_phjy~hatj
+2020-10-13T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,Positiu per ELISA,1,row-2msv-h6mf_eqdi
+2020-04-26T00:00:00.000,40.0,VALLES OCCIDENTAL,8184.0,RUBÍ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-ghnz.m7ah~nu6u
+2020-05-18T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,PCR probable,1,row-xzf5_su9s-pkyd
+2020-07-16T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per Test Ràpid,6,row-aj3s_3rj8.qzfw
+2020-05-22T00:00:00.000,2.0,ALT EMPORDA,17066.0,FIGUERES,,No classificat,0.0,Home,PCR probable,1,row-tgxg~6qg9_kpw7
+2020-04-24T00:00:00.000,38.0,URGELL,25217.0,TÀRREGA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-sz4e-ydsf_5mpg
+2020-05-24T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-9eqi.fpkp.xsug
+2020-04-02T00:00:00.000,11.0,BAIX LLOBREGAT,8263.0,SANT VICENÇ DELS HORTS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-3dv7~2yje~4zqr
+2020-04-27T00:00:00.000,33.0,SEGRIA,25120.0,LLEIDA,,No classificat,1.0,Dona,Epidemiològic,1,row-km69_77np.ebd7
+2020-12-23T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,0.0,Home,PCR probable,1,row-fccv~pgbj.nqtd
+2020-08-18T00:00:00.000,34.0,SELVA,17008.0,ANGLÈS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-dyrt_fn32.rceh
+2020-08-19T00:00:00.000,6.0,ANOIA,8250.0,SANTA MARGARIDA DE MONTBUI,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-nmb7_hues~24tj
+2020-07-21T00:00:00.000,,,,No classificat,,No classificat,,No classificat,Epidemiològic,7,row-6m4u.5srz-4z28
+2020-07-21T00:00:00.000,21.0,MARESME,8163.0,PINEDA DE MAR,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-yub7.f5g4_nx7b
+2020-06-29T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,1.0,Dona,Positiu per ELISA,2,row-ymg9-2mid-3gbq
+2020-06-06T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,1.0,Dona,Positiu per ELISA,3,row-itr5_rdyf.sjcw
+2020-06-04T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,0.0,Home,Positiu per Test Ràpid,1,row-s2sw~s4hw_gysz
+2020-05-28T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,0.0,Home,Positiu per Test Ràpid,2,row-97n6_vuij~c2gu
+2020-05-21T00:00:00.000,10.0,BAIX EMPORDA,17118.0,PALAMÓS,,No classificat,1.0,Dona,PCR probable,2,row-nntj_nta4~hi94
+2020-05-29T00:00:00.000,7.0,BAGES,8140.0,NAVARCLES,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-bc92_xe96_a4bh
+2020-10-01T00:00:00.000,11.0,BAIX LLOBREGAT,8123.0,MOLINS DE REI,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-5e4w-jemz.tmud
+2020-10-01T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-jjq7-crdk-w6mt
+2020-10-01T00:00:00.000,11.0,BAIX LLOBREGAT,8208.0,SANT ESTEVE SESROVIRES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-ecnm~n2xy.vzrj
+2020-06-15T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,0.0,Home,Positiu per Test Ràpid,1,row-mdx5-hag3~awtp
+2020-06-15T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,0.0,Home,Positiu per ELISA,1,row-xsu6-4nbt~grdw
+2021-01-13T00:00:00.000,41.0,VALLES ORIENTAL,8259.0,SANTA MARIA DE PALAUTORDERA,,No classificat,0.0,Home,PCR probable,1,row-ciwx-rymp_cebc
+2020-08-22T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,1,row-5qdh~kfsa~u7rz
+2020-08-19T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,PCR probable,1,row-hpiu-bkxq_p9xv
+2020-05-12T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per ELISA,1,row-3jcu.jnm6_acux
+2020-06-09T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,Positiu per ELISA,1,row-mdci_fw3q~6trq
+2020-05-06T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,Epidemiològic,1,row-chir.8z2m.bkcj
+2020-12-05T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-iri9.qvda~9hx7
+2021-01-20T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,0.0,Home,Positiu per ELISA,2,row-r4f8.xgmg~xjap
+2020-08-23T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,Positiu per ELISA,1,row-q278.yrch_tvwr
+2020-11-05T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,4,row-ds8d.7mag-wzbh
+2020-04-29T00:00:00.000,10.0,BAIX EMPORDA,17117.0,PALAFRUGELL,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-fyws_jxv6.ird2
+2020-12-01T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-c9q7-yx9i.uav8
+2020-09-18T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-t884~i65c-egkp
+2020-08-24T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-p8ub_2ahr.6gaz
+2020-06-08T00:00:00.000,11.0,BAIX LLOBREGAT,8072.0,CORBERA DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,1,row-h8de~c54x~3du9
+2021-02-12T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-te3v-fqy8_qmec
+2020-06-07T00:00:00.000,40.0,VALLES OCCIDENTAL,8252.0,BARBERÀ DEL VALLÈS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-vjyg-ewat.4eu9
+2020-11-01T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,0.0,Home,Positiu per ELISA,1,row-at33_ccre.4f2a
+2020-12-28T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,0.0,Home,Positiu per ELISA,1,row-n6bh.qhnx-4t7k
+2020-08-17T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,0.0,Home,PCR probable,1,row-f37b~q7ap.bjg3
+2020-10-05T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,0.0,Home,Positiu per ELISA,1,row-uw9s_tn9q-m2dx
+2021-01-22T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,PCR probable,1,row-tkbt~kcjw_jrpm
+2020-12-02T00:00:00.000,11.0,BAIX LLOBREGAT,8114.0,MARTORELL,,No classificat,0.0,Home,Positiu per ELISA,1,row-si6r_qzaz-9gta
+2020-07-11T00:00:00.000,20.0,GIRONES,17186.0,SARRIÀ DE TER,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-w85e_jnsv.nsus
+2021-02-01T00:00:00.000,8.0,BAIX CAMP,43038.0,CAMBRILS,,No classificat,0.0,Home,Positiu per ELISA,1,row-kath-na24_er58
+2021-01-10T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-cehu-sk4y-r8rc
+2020-06-08T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-ytuw-bp5i_pgzc
+2021-01-08T00:00:00.000,17.0,GARRAF,8307.0,VILANOVA I LA GELTRÚ,,No classificat,1.0,Dona,PCR probable,2,row-hsfe-6aij_5b7u
+2021-01-10T00:00:00.000,17.0,GARRAF,8231.0,SANT PERE DE RIBES,,No classificat,1.0,Dona,PCR probable,1,row-h26m_wy7x_7d69
+2021-02-09T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,1.0,Dona,PCR probable,1,row-zeda_zffd.vic4
+2020-11-17T00:00:00.000,21.0,MARESME,8118.0,EL MASNOU,,No classificat,0.0,Home,Positiu per ELISA,1,row-5e9h_x6zw_hgp8
+2020-09-28T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-y8w5.kcnu_vq2f
+2021-02-25T00:00:00.000,41.0,VALLES ORIENTAL,8159.0,PARETS DEL VALLÈS,,No classificat,0.0,Home,Positiu per ELISA,1,row-avv9~6yq2.vr92
+2020-11-13T00:00:00.000,6.0,ANOIA,8119.0,MASQUEFA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-kqp7-yxya~hg5p
+2020-05-05T00:00:00.000,41.0,VALLES ORIENTAL,8198.0,SANT ANTONI DE VILAMAJOR,,No classificat,1.0,Dona,Positiu per ELISA,1,row-4wxh~qzqi~9uw6
+2020-05-01T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,0.0,Home,Epidemiològic,2,row-6sre~rwrd~h84a
+2020-07-30T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,0.0,Home,Positiu per Test Ràpid,6,row-nmg4~8qps.uvkp
+2021-01-27T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-req6~xzxq_nkjw
+2020-08-05T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-9zu2-avq2_7eh4
+2020-11-27T00:00:00.000,40.0,VALLES OCCIDENTAL,8184.0,RUBÍ,,No classificat,0.0,Home,Positiu per ELISA,2,row-2292~ydar_hqm4
+2020-06-08T00:00:00.000,34.0,SELVA,17164.0,SANT HILARI SACALM,,No classificat,1.0,Dona,Positiu per ELISA,1,row-sexb.9kwr-9yh3
+2020-05-27T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Epidemiològic,1,row-asha-rrvh~kdyy
+2021-03-24T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,1.0,Dona,Positiu PCR,4,row-5ppj_qpvp.ginj
+2020-05-11T00:00:00.000,10.0,BAIX EMPORDA,17034.0,CALONGE I SANT ANTONI,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-2ep9-uxuc-qzef
+2020-04-27T00:00:00.000,39.0,VALL D'ARAN,25121.0,LES,,No classificat,0.0,Home,Positiu per ELISA,1,row-nmt4~jg8e_gmyg
+2021-01-15T00:00:00.000,6.0,ANOIA,8102.0,IGUALADA,,No classificat,1.0,Dona,PCR probable,1,row-cs88_7hmq~s224
+2020-04-12T00:00:00.000,21.0,MARESME,8282.0,TIANA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-xhtu-dtg3~5jq9
+2020-05-15T00:00:00.000,11.0,BAIX LLOBREGAT,8211.0,SANT FELIU DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-cijn~wad2-pe9y
+2020-03-25T00:00:00.000,24.0,OSONA,8112.0,MANLLEU,,No classificat,0.0,Home,Epidemiològic,1,row-g2vr.y4tc_sew8
+2020-04-13T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,Epidemiològic,1,row-f5pd.j8fz~myu5
+2020-05-16T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,Positiu per ELISA,2,row-qw5r.k943-5mj8
+2021-01-02T00:00:00.000,34.0,SELVA,17083.0,HOSTALRIC,,No classificat,0.0,Home,Positiu per ELISA,1,row-a297-r827.hqs2
+2020-08-24T00:00:00.000,30.0,RIBERA D'EBRE,43019.0,ASCÓ,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-57yx~z37y_m7k6
+2020-07-31T00:00:00.000,11.0,BAIX LLOBREGAT,8114.0,MARTORELL,,No classificat,1.0,Dona,Positiu per ELISA,2,row-7kd7.ambi.pqm2
+2020-07-31T00:00:00.000,7.0,BAGES,8218.0,SANT JOAN DE VILATORRADA,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-a9sk~u5h6_vgkv
+2020-08-17T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,PCR probable,3,row-c4f8_kani-mera
+2020-11-13T00:00:00.000,14.0,BERGUEDA,8049.0,CASSERRES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-e5i5-jdgs.564h
+2020-11-05T00:00:00.000,6.0,ANOIA,8143.0,ÒDENA,,No classificat,0.0,Home,PCR probable,1,row-wg57.eyfe~9xrw
+2020-11-25T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-mhxg_7zg8.uyfn
+2020-07-14T00:00:00.000,6.0,ANOIA,8226.0,SANT MARTÍ DE TOUS,,No classificat,0.0,Home,Positiu per ELISA,1,row-62wn.m929-cs2u
+2020-11-04T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,1.0,Dona,Positiu per ELISA,1,row-qj5g.4vqw~f8d7
+2020-05-07T00:00:00.000,19.0,GARROTXA,17114.0,OLOT,,No classificat,1.0,Dona,PCR probable,1,row-8ctv.bpwc.ugjh
+2020-06-01T00:00:00.000,6.0,ANOIA,8025.0,EL BRUC,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-aa4t_zcv3-vgu8
+2020-04-28T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,4,row-p7an~dnqb~27n3
+2020-03-26T00:00:00.000,36.0,TARRAGONES,43905.0,SALOU,,No classificat,0.0,Home,Epidemiològic,1,row-n5fp.s626_jppx
+2020-12-28T00:00:00.000,6.0,ANOIA,8302.0,VILANOVA DEL CAMÍ,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-4gpn-2ees-ugde
+2020-11-03T00:00:00.000,40.0,VALLES OCCIDENTAL,8260.0,SANTA PERPÈTUA DE MOGODA,,No classificat,1.0,Dona,Positiu per ELISA,2,row-tfbm-f4wa.9x6s
+2020-11-03T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-fs5n.9nkx.jg54
+2020-07-13T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,0.0,Home,Positiu per Test Ràpid,12,row-drei~xee9_wq7a
+2020-03-28T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,0.0,Home,Positiu per ELISA,1,row-9kgj-bk8z~ityq
+2021-02-15T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-2hui_qisq_byzr
+2020-09-02T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-b9gf-38b2-hv9m
+2020-12-11T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-pv52_c24e-b6n2
+2020-12-17T00:00:00.000,11.0,BAIX LLOBREGAT,8068.0,CERVELLÓ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-bmjp.d6a4_49jn
+2020-12-14T00:00:00.000,11.0,BAIX LLOBREGAT,8157.0,PALLEJÀ,,No classificat,0.0,Home,PCR probable,1,row-paem-3qa6~cd27
+2020-12-27T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,0.0,Home,PCR probable,2,row-cbds-nftd.dtu6
+2020-09-07T00:00:00.000,2.0,ALT EMPORDA,17066.0,FIGUERES,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-27er_eway.f8wx
+2020-05-12T00:00:00.000,21.0,MARESME,8284.0,TORDERA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-32a6_ijwn-j4we
+2020-04-23T00:00:00.000,8.0,BAIX CAMP,43129.0,RIUDOMS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-869r~t3dt.38bw
+2020-05-06T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,2,row-ysw5.ib3u-t5xg
+2020-11-12T00:00:00.000,40.0,VALLES OCCIDENTAL,8180.0,RIPOLLET,,No classificat,1.0,Dona,Epidemiològic,1,row-ccbu_gc74.v9dh
+2020-09-02T00:00:00.000,21.0,MARESME,8197.0,SANT ANDREU DE LLAVANERES,,No classificat,0.0,Home,Positiu per ELISA,1,row-4xux-j442_4tq8
+2020-06-11T00:00:00.000,41.0,VALLES ORIENTAL,8202.0,SANT CELONI,,No classificat,0.0,Home,Epidemiològic,1,row-7n9z.hw57_yuqh
+2020-06-11T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,Positiu per ELISA,4,row-wjec.fpy6~c7er
+2020-06-11T00:00:00.000,20.0,GIRONES,17142.0,QUART,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-t8dp.ir3b~2nt9
+2020-07-06T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,1.0,Dona,Positiu per ELISA,1,row-2yau~ucdm-ekt7
+2020-07-08T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,0.0,Home,Positiu per Test Ràpid,8,row-mg9r~7xhk-z6cf
+2020-04-01T00:00:00.000,9.0,BAIX EBRE,43155.0,TORTOSA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-sutw-2sqa_rfdm
+2020-08-12T00:00:00.000,40.0,VALLES OCCIDENTAL,8184.0,RUBÍ,,No classificat,0.0,Home,PCR probable,1,row-2f5k_77f5-vft6
+2020-08-13T00:00:00.000,14.0,BERGUEDA,8011.0,AVIÀ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-yc5s~45q4~z845
+2020-09-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,0.0,Home,Positiu per Test Ràpid,1,row-ur9z_6jpt_s4db
+2020-04-22T00:00:00.000,39.0,VALL D'ARAN,25025.0,NAUT ARAN,,No classificat,1.0,Dona,Positiu per ELISA,1,row-dcc2_3dq6_2c62
+2020-09-23T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,0.0,Home,PCR probable,1,row-m3gb~pz5h-6za2
+2020-09-29T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,1.0,Dona,Positiu per Test Ràpid,1,row-uehi.ycen.58wb
+2020-05-20T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,0.0,Home,PCR probable,1,row-2x38.yu87.9nhr
+2020-06-09T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,1,row-n9ii.hfrt-a3dd
+2020-07-13T00:00:00.000,11.0,BAIX LLOBREGAT,8221.0,SANT JUST DESVERN,,No classificat,0.0,Home,PCR probable,1,row-q2tz-ccbc_8gct
+2020-07-27T00:00:00.000,14.0,BERGUEDA,8092.0,GIRONELLA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-ncjy_vndd~9k9g
+2020-06-02T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,1.0,Dona,Positiu per Test Ràpid,2,row-eekg.bxjw~esgn
+2020-10-06T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,Epidemiològic,1,row-vpc3_njts_yewz
+2021-02-17T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,PCR probable,1,row-9eyq_tv2w~wc4e
+2021-02-18T00:00:00.000,33.0,SEGRIA,25120.0,LLEIDA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-ishv.ekqi-3hh9
+2020-04-24T00:00:00.000,28.0,PLA DE L'ESTANY,17015.0,BANYOLES,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-wc2v-cqj5_cr74
+2021-02-15T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,1,row-yw9m~yji8_gp7p
+2020-08-19T00:00:00.000,21.0,MARESME,8172.0,PREMIÀ DE MAR,,No classificat,0.0,Home,Positiu per ELISA,1,row-utb6_q7id.xv5h
+2020-04-07T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,0.0,Home,Positiu per ELISA,2,row-4j6b-xizt_gyf2
+2020-05-04T00:00:00.000,3.0,ALT PENEDES,8305.0,VILAFRANCA DEL PENEDÈS,,No classificat,0.0,Home,Positiu per ELISA,1,row-fcp2.rqve_y3ys
+2020-04-28T00:00:00.000,7.0,BAGES,8010.0,ARTÉS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-syyx.jzzi-bftd
+2021-01-25T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,1.0,Dona,Positiu per ELISA,1,row-5kna_s4ir_5448
+2021-02-18T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,Positiu per ELISA,5,row-2ssb-2ijb-g6zw
+2021-01-21T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,1.0,Dona,Positiu per ELISA,1,row-rwkv_4fyw-x26y
+2021-02-03T00:00:00.000,21.0,MARESME,8163.0,PINEDA DE MAR,,No classificat,1.0,Dona,PCR probable,1,row-f7mg-uer3~85bd
+2021-02-06T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,PCR probable,1,row-acnx.rhy7_95zp
+2020-11-23T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,1.0,Dona,Positiu per ELISA,1,row-dffb_assc~fqw9
+2020-12-05T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,Positiu per ELISA,1,row-zkgz_v3f5_rpv2
+2020-10-20T00:00:00.000,41.0,VALLES ORIENTAL,8046.0,CARDEDEU,,No classificat,0.0,Home,Epidemiològic,1,row-wdk3.tk3e.3raz
+2021-01-19T00:00:00.000,34.0,SELVA,17202.0,TOSSA DE MAR,,No classificat,1.0,Dona,PCR probable,1,row-9djh~qu9k_addt
+2020-11-18T00:00:00.000,11.0,BAIX LLOBREGAT,8020.0,BEGUES,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-dh9e_hz6j_nryq
+2020-11-18T00:00:00.000,40.0,VALLES OCCIDENTAL,8180.0,RIPOLLET,,No classificat,0.0,Home,Epidemiològic,1,row-7fq3_tita.4emw
+2020-04-29T00:00:00.000,34.0,SELVA,17193.0,SILS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-whyd-yidq~wshm
+2020-04-21T00:00:00.000,21.0,MARESME,8155.0,PALAFOLLS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-tmvd.rfx9.ti2s
+2020-10-16T00:00:00.000,40.0,VALLES OCCIDENTAL,8252.0,BARBERÀ DEL VALLÈS,,No classificat,0.0,Home,PCR probable,1,row-gwis.px4b~cd8p
+2020-07-23T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-7pfk~z49s.8gqe
+2020-05-13T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,5.0,SARRIÀ-SANT GERVASI,1.0,Dona,PCR probable,1,row-775v_vgk8-ciqk
+2020-04-17T00:00:00.000,19.0,GARROTXA,17114.0,OLOT,,No classificat,1.0,Dona,Positiu per Test Ràpid,9,row-64ey.7bse~ikdn
+2020-04-13T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,0.0,Home,Positiu per Test Ràpid,2,row-3jns_twua_n9a9
+2021-01-18T00:00:00.000,40.0,VALLES OCCIDENTAL,8180.0,RIPOLLET,,No classificat,1.0,Dona,Positiu per ELISA,1,row-k5zk.eqgw_jaw5
+2020-04-05T00:00:00.000,40.0,VALLES OCCIDENTAL,8260.0,SANTA PERPÈTUA DE MOGODA,,No classificat,1.0,Dona,Epidemiològic,1,row-c4np~fnac_d5pe
+2021-01-19T00:00:00.000,3.0,ALT PENEDES,8305.0,VILAFRANCA DEL PENEDÈS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-thuy-b2a4_2i3u
+2020-04-02T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,1.0,Dona,PCR probable,1,row-uwqp_fuff-dr9h
+2020-05-13T00:00:00.000,11.0,BAIX LLOBREGAT,8244.0,SANTA COLOMA DE CERVELLÓ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-w9t3.z5ux.2mbv
+2020-07-23T00:00:00.000,7.0,BAGES,8274.0,SÚRIA,,No classificat,1.0,Dona,Positiu per Test Ràpid,3,row-4p6s_nhvj~ix24
+2020-05-04T00:00:00.000,34.0,SELVA,17009.0,ARBÚCIES,,No classificat,0.0,Home,Epidemiològic,1,row-f3fi~pvam-xnmu
+2020-05-04T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,0.0,Home,Positiu per ELISA,1,row-bzre_utg2~d3zu
+2020-07-23T00:00:00.000,40.0,VALLES OCCIDENTAL,8051.0,CASTELLAR DEL VALLÈS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-9ces_xvsa_62i2
+2020-07-28T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,2.0,EIXAMPLE,1.0,Dona,PCR probable,1,row-j6j5_m6re-3v4j
+2020-06-23T00:00:00.000,7.0,BAGES,8192.0,SANTPEDOR,,No classificat,1.0,Dona,Positiu per ELISA,1,row-yk7p_r8ma_d3mv
+2020-06-25T00:00:00.000,11.0,BAIX LLOBREGAT,8295.0,VALLIRANA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-4biq_7x2a.uv2x
+2020-06-24T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,Positiu per ELISA,1,row-g8ex.vqu9~9wrj
+2021-02-26T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,1.0,Dona,PCR probable,1,row-gvv7_ygzq-taad
+2020-11-02T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per Test Ràpid,2,row-pu2r.9cmj_vysk
+2020-10-26T00:00:00.000,40.0,VALLES OCCIDENTAL,8054.0,CASTELLBISBAL,,No classificat,0.0,Home,PCR probable,1,row-x4u5_gjdx~nmja
+2020-10-22T00:00:00.000,34.0,SELVA,17023.0,BLANES,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-tiw8_w3a8.cjhu
+2020-06-26T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,Positiu per Test Ràpid,1,row-jizx-pie3-h8mp
+2020-04-17T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,PCR probable,1,row-prf8-de3r_qimd
+2020-04-09T00:00:00.000,9.0,BAIX EBRE,43904.0,L'ALDEA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-yfam~s54f~hnvd
+2020-04-30T00:00:00.000,41.0,VALLES ORIENTAL,8234.0,SANT PERE DE VILAMAJOR,,No classificat,1.0,Dona,Positiu per ELISA,1,row-9riv.jx5x-6x3x
+2020-04-22T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,1.0,Dona,PCR probable,1,row-69yr_rdug_hdd2
+2020-07-07T00:00:00.000,11.0,BAIX LLOBREGAT,8114.0,MARTORELL,,No classificat,1.0,Dona,Positiu per ELISA,1,row-vztj_7g4x_yamr
+2020-04-24T00:00:00.000,41.0,VALLES ORIENTAL,8097.0,GUALBA,,No classificat,1.0,Dona,Epidemiològic,1,row-dn5k~ct9e~ni3z
+2020-08-24T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,0.0,Home,Positiu per ELISA,1,row-a7pe-vfj9~xm8k
+2020-05-04T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,1,row-nm3d.yg75.2sai
+2020-08-11T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,0.0,Home,Positiu per ELISA,1,row-bzb8_px6b-3jvf
+2020-11-30T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,0.0,Home,Positiu per ELISA,1,row-p6ck~dwqs~c6r4
+2020-07-24T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,0.0,Home,Positiu per Test Ràpid,1,row-345s_gpfi_s5xx
+2020-05-07T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-sx7s_4dv8-yx3j
+2020-11-17T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per ELISA,2,row-vvec-nrpp_4xgk
+2020-11-20T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,2,row-td38_j9zp~xeqw
+2020-11-16T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,1.0,Dona,Positiu per ELISA,1,row-m34f~h3iz.arg6
+2021-02-10T00:00:00.000,40.0,VALLES OCCIDENTAL,8051.0,CASTELLAR DEL VALLÈS,,No classificat,0.0,Home,Positiu per ELISA,1,row-prk2-cas7~bp9z
+2021-02-05T00:00:00.000,40.0,VALLES OCCIDENTAL,8167.0,POLINYÀ,,No classificat,0.0,Home,Positiu per ELISA,1,row-48aq.9w3q~tunc
+2020-05-19T00:00:00.000,2.0,ALT EMPORDA,17032.0,CADAQUÉS,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-7wd2.zeen~jkcj
+2020-11-03T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,PCR probable,1,row-t7a7.78us~5w38
+2020-12-04T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,0.0,Home,Positiu per Test Ràpid,2,row-hqwb.5dub.xeh4
+2020-04-29T00:00:00.000,39.0,VALL D'ARAN,25121.0,LES,,No classificat,0.0,Home,Positiu per ELISA,1,row-nyzr~wn7j-p8w3
+2020-05-07T00:00:00.000,21.0,MARESME,8040.0,CANET DE MAR,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-3ade~z4qm_6zmq
+2020-05-08T00:00:00.000,36.0,TARRAGONES,43148.0,TARRAGONA,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-iumf~jkcv~hgt4
+2021-01-23T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,Positiu per ELISA,1,row-ndi8~d6db.zcbf
+2021-01-23T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,PCR probable,1,row-8bit_q77c.8nt5
+2020-07-15T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-n7fk~ttnv~b5yz
+2020-09-15T00:00:00.000,40.0,VALLES OCCIDENTAL,8184.0,RUBÍ,,No classificat,1.0,Dona,PCR probable,1,row-eg4a_5irh-9x52
+2020-10-28T00:00:00.000,6.0,ANOIA,8102.0,IGUALADA,,No classificat,0.0,Home,PCR probable,1,row-8rht~24v6~2k6k
+2020-06-11T00:00:00.000,41.0,VALLES ORIENTAL,8135.0,MONTMELÓ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-3hqr-e6vy.fwvg
+2021-02-16T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,1.0,Dona,Positiu per ELISA,2,row-dru8~sbmk~ib87
+2020-12-13T00:00:00.000,11.0,BAIX LLOBREGAT,8020.0,BEGUES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-n64p_qbq3_mcwb
+2020-12-21T00:00:00.000,23.0,NOGUERA,25034.0,ARTESA DE SEGRE,,No classificat,0.0,Home,Positiu per ELISA,1,row-ya24_gw4e~ui9y
+2020-09-01T00:00:00.000,17.0,GARRAF,8307.0,VILANOVA I LA GELTRÚ,,No classificat,0.0,Home,PCR probable,2,row-h73p.jbk2_g7em
+2020-07-14T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,0.0,Home,Positiu per ELISA,1,row-eydt-ib7h_j3jr
+2020-05-02T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,1.0,Dona,PCR probable,1,row-ffsy_g3wk-rr6a
+2020-08-04T00:00:00.000,7.0,BAGES,8113.0,MANRESA,,No classificat,0.0,Home,Positiu per ELISA,1,row-jjjk-y65t-d2as
+2020-07-23T00:00:00.000,21.0,MARESME,8040.0,CANET DE MAR,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-rqw9_v39x_2qa3
+2020-07-24T00:00:00.000,40.0,VALLES OCCIDENTAL,8125.0,MONTCADA I REIXAC,,No classificat,1.0,Dona,PCR probable,1,row-4g43~g244~bfuk
+2020-04-05T00:00:00.000,11.0,BAIX LLOBREGAT,8147.0,OLESA DE MONTSERRAT,,No classificat,0.0,Home,PCR probable,2,row-2hs5_nwax.88wd
+2020-07-16T00:00:00.000,41.0,VALLES ORIENTAL,8046.0,CARDEDEU,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-535j~qrzc_xpi9
+2020-04-23T00:00:00.000,19.0,GARROTXA,17114.0,OLOT,,No classificat,1.0,Dona,Positiu per ELISA,3,row-xpsv_qdv7_j7jk
+2020-07-29T00:00:00.000,6.0,ANOIA,8161.0,PIERA,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-qydm.ya4z~85f2
+2020-08-06T00:00:00.000,40.0,VALLES OCCIDENTAL,8187.0,SABADELL,,No classificat,0.0,Home,Positiu per Test Ràpid,3,row-qfu9~wdbq~afin
+2020-09-29T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,1.0,Dona,Positiu per ELISA,1,row-b4cw_p8jx.3rk4
+2020-03-27T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,0.0,Home,PCR probable,1,row-xn23_4wwp~ynty
+2020-05-01T00:00:00.000,3.0,ALT PENEDES,8154.0,PACS DEL PENEDÈS,,No classificat,0.0,Home,Positiu per ELISA,1,row-x7gu.vp7d-gumj
+2020-09-06T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-czeg~d5ir.phuf
+2020-08-12T00:00:00.000,13.0,BARCELONES,8194.0,SANT ADRIÀ DE BESÒS,,No classificat,1.0,Dona,PCR probable,1,row-k48n_rbh3-qyzq
+2020-08-09T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Positiu per ELISA,2,row-c84v-2j6n.xii9
+2020-04-04T00:00:00.000,11.0,BAIX LLOBREGAT,8069.0,COLLBATÓ,,No classificat,1.0,Dona,PCR probable,1,row-vq45_fyqy~sxfb
+2020-03-31T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,0.0,Home,PCR probable,3,row-sjkk_8mwf~j4ez
+2020-04-06T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-vmqg_khsp~7r5y
+2020-03-31T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,10.0,SANT MARTÍ,1.0,Dona,PCR probable,4,row-rb7j_e4wu_t3vj
+2020-04-04T00:00:00.000,8.0,BAIX CAMP,43123.0,REUS,,No classificat,1.0,Dona,Epidemiològic,1,row-ez82_ks7p-cmgk
+2020-10-02T00:00:00.000,11.0,BAIX LLOBREGAT,8200.0,SANT BOI DE LLOBREGAT,,No classificat,0.0,Home,PCR probable,1,row-x5gt.v5ry.wvz4
+2020-04-08T00:00:00.000,10.0,BAIX EMPORDA,17117.0,PALAFRUGELL,,No classificat,1.0,Dona,Epidemiològic,1,row-v79y_an68.8mte
+2020-07-17T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,0.0,Home,Positiu per Test Ràpid,6,row-n7yy~hfkk_r2uf
+2020-07-17T00:00:00.000,6.0,ANOIA,8102.0,IGUALADA,,No classificat,1.0,Dona,Positiu per Test Ràpid,5,row-au4w_wv8u-gtc2
+2020-07-14T00:00:00.000,41.0,VALLES ORIENTAL,8159.0,PARETS DEL VALLÈS,,No classificat,1.0,Dona,Positiu per Test Ràpid,2,row-uaaj~h7bv_f9xy
+2020-07-14T00:00:00.000,11.0,BAIX LLOBREGAT,8169.0,EL PRAT DE LLOBREGAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,7,row-m87u~u5ku_4npj
+2020-07-14T00:00:00.000,24.0,OSONA,8112.0,MANLLEU,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-6iy9.jq34-9mdn
+2020-07-21T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,1.0,Dona,Positiu per Test Ràpid,2,row-3ra2~qdkx.mzjb
+2020-07-20T00:00:00.000,40.0,VALLES OCCIDENTAL,8267.0,SENTMENAT,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-3n52-7b85~xjgp
+2020-11-21T00:00:00.000,29.0,PRIORAT,43082.0,EL MASROIG,,No classificat,0.0,Home,Positiu per ELISA,1,row-wp5h-sj44~wcmz
+2021-02-19T00:00:00.000,2.0,ALT EMPORDA,17092.0,LLANÇÀ,,No classificat,1.0,Dona,PCR probable,1,row-3pfz-dabr~e76n
+2020-04-05T00:00:00.000,11.0,BAIX LLOBREGAT,8196.0,SANT ANDREU DE LA BARCA,,No classificat,1.0,Dona,PCR probable,2,row-vgpt.cmpr-wm99
+2020-06-18T00:00:00.000,34.0,SELVA,17023.0,BLANES,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-r3pg-gt43.v9j4
+2020-07-21T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,0.0,Home,Positiu per Test Ràpid,7,row-8zi2~qr3n-fusq
+2020-07-15T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,0.0,Home,Positiu per ELISA,1,row-7gpe-jt9v~arfx
+2020-04-02T00:00:00.000,40.0,VALLES OCCIDENTAL,8205.0,SANT CUGAT DEL VALLÈS,,No classificat,0.0,Home,PCR probable,1,row-tvxs-bfdm~utci
+2020-08-17T00:00:00.000,34.0,SELVA,17213.0,VIDRERES,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-jwt2_z7pk-dgax
+2020-07-29T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per ELISA,1,row-8z2s.t828.r5bg
+2020-07-13T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,0.0,Home,PCR probable,1,row-uk64.tszb~264i
+2020-08-05T00:00:00.000,41.0,VALLES ORIENTAL,8135.0,MONTMELÓ,,No classificat,0.0,Home,Epidemiològic,1,row-t8px_sfm7-nqjw
+2020-10-14T00:00:00.000,6.0,ANOIA,8302.0,VILANOVA DEL CAMÍ,,No classificat,0.0,Home,PCR probable,3,row-a88k.nwmt.qjsj
+2020-09-23T00:00:00.000,11.0,BAIX LLOBREGAT,8263.0,SANT VICENÇ DELS HORTS,,No classificat,0.0,Home,PCR probable,1,row-eycf-uwf9_cz5q
+2020-09-22T00:00:00.000,41.0,VALLES ORIENTAL,8096.0,GRANOLLERS,,No classificat,0.0,Home,Positiu per ELISA,1,row-keaq.zm8z~vtah
+2020-11-23T00:00:00.000,13.0,BARCELONES,8101.0,L'HOSPITALET DE LLOBREGAT,,No classificat,0.0,Home,PCR probable,2,row-5gan-tg9n~c7sc
+2020-09-14T00:00:00.000,12.0,BAIX PENEDES,43037.0,CALAFELL,,No classificat,1.0,Dona,PCR probable,1,row-tsrg-d6gj-gzdx
+2020-09-14T00:00:00.000,40.0,VALLES OCCIDENTAL,8260.0,SANTA PERPÈTUA DE MOGODA,,No classificat,0.0,Home,Epidemiològic,1,row-d3x6_ufja~djzh
+2020-05-27T00:00:00.000,18.0,GARRIGUES,25058.0,LES BORGES BLANQUES,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-8vtx~gvve-37pj
+2020-10-23T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,1.0,Dona,Positiu per ELISA,1,row-ay7z~3n9k-sfhg
+2020-10-23T00:00:00.000,11.0,BAIX LLOBREGAT,8056.0,CASTELLDEFELS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-5pv7~e3jw_kfvw
+2020-10-18T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,0.0,Home,PCR probable,1,row-d2k5-tztr.r7j4
+2020-09-23T00:00:00.000,8.0,BAIX CAMP,43145.0,LA SELVA DEL CAMP,,No classificat,1.0,Dona,PCR probable,2,row-2em6~7uwy.tutp
+2020-11-03T00:00:00.000,12.0,BAIX PENEDES,43051.0,CUNIT,,No classificat,1.0,Dona,PCR probable,1,row-5u2e~b857.wc4n
+2020-04-15T00:00:00.000,11.0,BAIX LLOBREGAT,8208.0,SANT ESTEVE SESROVIRES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-4sne-d88t~cxsq
+2020-05-09T00:00:00.000,41.0,VALLES ORIENTAL,8210.0,SANT FELIU DE CODINES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-jpc3.4crz~57nh
+2020-10-13T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,0.0,Home,Positiu per ELISA,1,row-muek~itvf.v4ui
+2020-06-12T00:00:00.000,36.0,TARRAGONES,43148.0,TARRAGONA,,No classificat,1.0,Dona,PCR probable,1,row-v4vc-ue6x~wu9t
+2020-05-27T00:00:00.000,2.0,ALT EMPORDA,17001.0,AGULLANA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-dpj3.gz9i-9pzx
+2020-08-15T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,0.0,Home,PCR probable,1,row-96uj-ier6-756j
+2020-08-13T00:00:00.000,13.0,BARCELONES,8194.0,SANT ADRIÀ DE BESÒS,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-y7kp.9xih-fdcs
+2020-11-08T00:00:00.000,40.0,VALLES OCCIDENTAL,8238.0,SANT QUIRZE DEL VALLÈS,,No classificat,1.0,Dona,Positiu per ELISA,1,row-k34d-t9r3.2vgi
+2020-10-26T00:00:00.000,11.0,BAIX LLOBREGAT,8217.0,SANT JOAN DESPÍ,,No classificat,1.0,Dona,PCR probable,1,row-wknz_t6kf-arvn
+2020-10-30T00:00:00.000,41.0,VALLES ORIENTAL,8202.0,SANT CELONI,,No classificat,0.0,Home,PCR probable,1,row-82pc_98yw~piwu
+2020-11-05T00:00:00.000,6.0,ANOIA,8302.0,VILANOVA DEL CAMÍ,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-4fq9_e68v.a6jh
+2020-07-29T00:00:00.000,2.0,ALT EMPORDA,17152.0,ROSES,,No classificat,0.0,Home,Epidemiològic,1,row-anm2-f76r-wcsr
+2020-08-04T00:00:00.000,11.0,BAIX LLOBREGAT,8089.0,GAVÀ,,No classificat,1.0,Dona,PCR probable,2,row-kdr8.dk5s_ysee
+2020-06-13T00:00:00.000,40.0,VALLES OCCIDENTAL,8120.0,MATADEPERA,,No classificat,0.0,Home,Positiu per ELISA,1,row-7d6x.zu6k-fcjz
+2021-01-11T00:00:00.000,6.0,ANOIA,8102.0,IGUALADA,,No classificat,0.0,Home,PCR probable,1,row-mp35.bhzk~j6er
+2020-04-22T00:00:00.000,11.0,BAIX LLOBREGAT,8301.0,VILADECANS,,No classificat,1.0,Dona,Positiu per ELISA,2,row-kksk-uhpk.u3jp
+2021-01-04T00:00:00.000,21.0,MARESME,8121.0,MATARÓ,,No classificat,1.0,Dona,Positiu per ELISA,1,row-n6zy-sja5.epbf
+2020-05-28T00:00:00.000,7.0,BAGES,8010.0,ARTÉS,,No classificat,0.0,Home,PCR probable,1,row-6bx7~npae~gnug
+2020-08-10T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,9.0,SANT ANDREU,0.0,Home,Positiu per Test Ràpid,2,row-464x~ivaj.avs3
+2020-08-12T00:00:00.000,11.0,BAIX LLOBREGAT,8056.0,CASTELLDEFELS,,No classificat,0.0,Home,Positiu per ELISA,1,row-ug2b_6s46.re4c
+2020-04-16T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Positiu per ELISA,1,row-jq43~24vh_v235
+2020-08-05T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,3,row-qpa7~69gi.z5d8
+2021-02-08T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,1.0,Dona,PCR probable,1,row-p3h5.f2yi~ascs
+2020-09-03T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,Positiu per ELISA,2,row-e9qr.h4cc_e7as
+2020-08-11T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,0.0,Home,Positiu per Test Ràpid,1,row-gh3i-iehg-rqu9
+2020-04-13T00:00:00.000,40.0,VALLES OCCIDENTAL,8266.0,CERDANYOLA DEL VALLÈS,,No classificat,0.0,Home,Epidemiològic,2,row-pmhj.zumg-s4yc
+2020-05-27T00:00:00.000,33.0,SEGRIA,25120.0,LLEIDA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-efmj.v973~q6p7
+2020-11-13T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,PCR probable,1,row-2xax_958c~kcpw
+2020-08-12T00:00:00.000,40.0,VALLES OCCIDENTAL,8180.0,RIPOLLET,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-ctda-7e3r_phh4
+2020-12-11T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,1.0,CIUTAT VELLA,1.0,Dona,Positiu per ELISA,1,row-8j2w-f3n8.tvfz
+2020-04-24T00:00:00.000,21.0,MARESME,8219.0,VILASSAR DE MAR,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-zkaz.4ge6_mgps
+2020-04-08T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,7.0,HORTA-GUINARDÓ,0.0,Home,Positiu per ELISA,2,row-yrf7-cziz~wx3v
+2020-06-12T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per ELISA,2,row-zt4j.xywa-a79y
+2021-01-07T00:00:00.000,21.0,MARESME,8110.0,MALGRAT DE MAR,,No classificat,1.0,Dona,PCR probable,1,row-6m9u~cma7.6wmk
+2020-12-07T00:00:00.000,11.0,BAIX LLOBREGAT,8073.0,CORNELLÀ DE LLOBREGAT,,No classificat,1.0,Dona,PCR probable,2,row-h8v2~rvpn-4n6m
+2020-10-25T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,0.0,Home,Positiu per ELISA,1,row-kqun.aypx-s9jw
+2021-03-26T00:00:00.000,40.0,VALLES OCCIDENTAL,8125.0,MONTCADA I REIXAC,,No classificat,1.0,Dona,Positiu TAR,3,row-um9t-pgfk-eq4i
+2021-02-22T00:00:00.000,,,,(Altres municipis),,No classificat,0.0,Home,PCR probable,1,row-gd9r.jijm-y3un
+2021-02-13T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,1.0,Dona,Positiu per Test Ràpid,1,row-gaa8-9w9x-wy4f
+2021-03-26T00:00:00.000,38.0,URGELL,25217.0,TÀRREGA,,No classificat,0.0,Home,Positiu TAR,1,row-2uxv_63un~84j5
+2020-04-25T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,3.0,SANTS-MONTJUÏC,1.0,Dona,Positiu per ELISA,1,row-f9id-255x.7zju
+2020-03-26T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,6.0,GRÀCIA,1.0,Dona,Epidemiològic,1,row-6tn6_48gg_4j6n
+2020-10-29T00:00:00.000,8.0,BAIX CAMP,43123.0,REUS,,No classificat,1.0,Dona,PCR probable,1,row-fw5r.ttcm-jmx9
+2020-06-17T00:00:00.000,33.0,SEGRIA,25120.0,LLEIDA,,No classificat,1.0,Dona,Positiu per ELISA,2,row-6vsa_hatp_wci7
+2020-05-01T00:00:00.000,34.0,SELVA,17148.0,RIUDARENES,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-za29-jqu9-nkzn
+2020-04-14T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,1.0,Dona,Positiu per Test Ràpid,1,row-ww78.txqs.n46b
+2020-04-28T00:00:00.000,20.0,GIRONES,17079.0,GIRONA,,No classificat,0.0,Home,Positiu per ELISA,1,row-9gzj~akvx-8urp
+2020-03-24T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Positiu PCR,38,row-wmy9~45nt~99hi
+2020-04-26T00:00:00.000,41.0,VALLES ORIENTAL,8115.0,MARTORELLES,,No classificat,1.0,Dona,Positiu per ELISA,1,row-tzzh_9829-7h9s
+2020-05-15T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,1.0,Dona,Positiu per ELISA,1,row-z8dz-iu9h.9vvq
+2020-04-07T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,8.0,NOU BARRIS,0.0,Home,Positiu per ELISA,1,row-u947.3y2c-5m3g
+2020-04-04T00:00:00.000,38.0,URGELL,25217.0,TÀRREGA,,No classificat,1.0,Dona,PCR probable,1,row-6ev6_anbr~dvb3
+2020-04-22T00:00:00.000,21.0,MARESME,8264.0,SANT VICENÇ DE MONTALT,,No classificat,1.0,Dona,Positiu per ELISA,1,row-enye.6pbv-qnhv
+2021-02-10T00:00:00.000,11.0,BAIX LLOBREGAT,8196.0,SANT ANDREU DE LA BARCA,,No classificat,1.0,Dona,PCR probable,2,row-m78b.ji6h.t5x2
+2021-02-05T00:00:00.000,13.0,BARCELONES,8019.0,BARCELONA,4.0,LES CORTS,1.0,Dona,Positiu per ELISA,1,row-yv6g.4njq_rn9t
+2021-02-26T00:00:00.000,36.0,TARRAGONES,43148.0,TARRAGONA,,No classificat,0.0,Home,Epidemiològic,1,row-6656-3vrf_ewqu
+2020-03-25T00:00:00.000,17.0,GARRAF,8307.0,VILANOVA I LA GELTRÚ,,No classificat,0.0,Home,Positiu per ELISA,2,row-swrf.znnt.p6e9
+2020-07-24T00:00:00.000,34.0,SELVA,17213.0,VIDRERES,,No classificat,1.0,Dona,PCR probable,1,row-cqct-69y7~av32
+2020-08-20T00:00:00.000,34.0,SELVA,17213.0,VIDRERES,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-miat~cu6i_8hjt
+2020-05-18T00:00:00.000,6.0,ANOIA,8063.0,CASTELLOLÍ,,No classificat,0.0,Home,PCR probable,1,row-5a47~ip6z-n4kc
+2020-04-28T00:00:00.000,19.0,GARROTXA,17105.0,MIERES,,No classificat,0.0,Home,Positiu per ELISA,1,row-m56h_f64u_t4w5
+2020-09-10T00:00:00.000,32.0,SEGARRA,25072.0,CERVERA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-c92a_bhp4.ypbp
+2020-08-07T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,1.0,Dona,Positiu per ELISA,1,row-m9qh_uisr-3pjx
+2020-08-24T00:00:00.000,13.0,BARCELONES,8245.0,SANTA COLOMA DE GRAMENET,,No classificat,0.0,Home,Positiu per Test Ràpid,1,row-ps6j_kuw4-vnrx
+2021-02-09T00:00:00.000,13.0,BARCELONES,8015.0,BADALONA,,No classificat,0.0,Home,Positiu per ELISA,2,row-xqrd~5efq-cnmj
+2020-05-21T00:00:00.000,2.0,ALT EMPORDA,17047.0,CASTELLÓ D'EMPÚRIES,,No classificat,1.0,Dona,PCR probable,1,row-u4p4_bds6_3tgh
+2021-01-20T00:00:00.000,29.0,PRIORAT,43055.0,FALSET,,No classificat,0.0,Home,Epidemiològic,1,row-9xgr.unzb-7fia
+2020-07-22T00:00:00.000,7.0,BAGES,8140.0,NAVARCLES,,No classificat,0.0,Home,Positiu per Test Ràpid,2,row-zp7u~nfsq-kvib
+2020-08-12T00:00:00.000,33.0,SEGRIA,25011.0,ALCARRÀS,,No classificat,0.0,Home,Epidemiològic,1,row-ap22-zumg_vjqn
+2020-11-09T00:00:00.000,40.0,VALLES OCCIDENTAL,8279.0,TERRASSA,,No classificat,0.0,Home,Positiu per ELISA,1,row-e3wg-f6zt_btwq
+2020-12-05T00:00:00.000,11.0,BAIX LLOBREGAT,8068.0,CERVELLÓ,,No classificat,1.0,Dona,Positiu per ELISA,2,row-e2az_d32a~zu2r
+2020-09-26T00:00:00.000,11.0,BAIX LLOBREGAT,8114.0,MARTORELL,,No classificat,1.0,Dona,Positiu per ELISA,1,row-rr25~uz9k-5dua

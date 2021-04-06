@@ -35,8 +35,15 @@ def write_to_file(content, filename, mode):
         with io.open(filename, mode, encoding="utf-8") as f:
             f.write(content)
         f.close()
-    except:
-        print("Error with file: {}".format(filename))
+    except Exception as e:
+        print(e)
+
+def new_offset(old_offset):
+    """
+    Return next offset
+    """
+    offset_body = str(old_offset)[2:]
+    return int("20" + str((int(offset_body) + 100)))
 #endregion
 
 #region Webdriver functions
@@ -90,22 +97,25 @@ def download_data(npages):
     if npages > 0:
         url_web = web_paginacio
         offset = 20200
-        max_offset = offset + (npages * 100) - 100
+        max_offset = int("20" + str((npages * 100) + 100))
 
         try:
             fixed_html = get_web_content(url_web)
-            print("Data downloaded to dades_paginacio.json, offset: {}".format(offset))
+            print("Data downloaded to dades_paginacio.json, page: 1")
             if offset < max_offset:
                 fixed_html = fixed_html.replace(']', ',')
 
             write_to_file(fixed_html, fitxer_dades, 'w')
+            page = 2
 
             while offset < max_offset:
                 #Descarreguem els següents 100 resultats
-                url_web = url_web.replace(str(offset), str(offset + 100))
-                offset += 100
+                next_offset = new_offset(offset)
+                url_web = url_web.replace(str(offset), str(next_offset))
+                offset = next_offset
                 fixed_html = get_web_content(url_web)
-                print("Data downloaded to dades_paginacio.json, offset: {}".format(offset))
+                print("Data downloaded to dades_paginacio.json, page: {}".format(page))
+                page += 1
                 fixed_html = fixed_html.replace('[', '')
 
                 if offset < max_offset:
@@ -121,5 +131,5 @@ def download_data(npages):
     else:
         print("El valor ha de ser mínim 1")
 
-# download_data(3)
+# download_data(10)
 #endregion
