@@ -32,6 +32,30 @@ Tots els punts anteriors, estan desenvolupats en el fitxer Pràctica 1_vpio_bfel
 <li> <b>src/web_scraper.py:</b> conté la implementació dels mètodes per obtenir un conjunt de dades de la web indicada anteriorment. Utilitza les llibreries BeautifulSoup i Selenium. </li>
 <li> <b>src/json_to_csv.py:</b> genera un fitxer en format CSV a partir del JSON obtingut del web scraping. Utilitza la llibreria Pandas. </li>
 
+## Execució dels scripts
+
+1. És necessari instal·lar les següents llibreries:
+
+    pip install pandas
+    pip install requests
+    pip install selenium
+    pip install beautifulsoup4
+
+2. Guardar l'arxiu *chromedriver.exe* a la unitat C:
+
+3. Obrir un terminal de python a la ubicació dels scripts
+
+4. Importar els dos mòduls. El mòdul *web_scraper* obrirà automàticament una finestra de Google Chrome amb la web de dades:
+    import json_to_csv
+    import web_scraper
+
+5. Executar les funcions de cada mòdul. Exemple:
+    web_scraper.download_web()
+    web_scraper.download_data(10)
+    web_scraper.get_first_rows(5)
+    web_scraper.get_column(8, 3)
+    json_to_csv.generate_csv()
+
 ## Membres del grup de treball
 
 <li>Maria Begoña Felip. </li>

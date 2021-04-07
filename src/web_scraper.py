@@ -8,7 +8,7 @@ web = 'https://analisi.transparenciacatalunya.cat/Salut/Registre-de-casos-de-COV
 web_paginacio = 'https://analisi.transparenciacatalunya.cat/api/id/jj6z-iyrp.json?$query=select%20*%2C%20%3Aid%20offset%20200%20limit%20100'
 fitxer_web = "../scraping/web.html"
 fitxer_dades = '../scraping/dades_paginacio.json'
-driver_location = "C:/Users/vicen/Downloads/chromedriver.exe"
+driver_location = "C:/chromedriver.exe"
 #endregion
 
 """
